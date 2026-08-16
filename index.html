@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Circuitos Eléctricos | Empresa Eléctrica de La Habana</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-mark">⚡</span>
+    <div class="brand-text">
+      <h1>Circuitos Eléctricos</h1>
+      <p>Empresa Eléctrica de La Habana</p>
+    </div>
+  </div>
+  <div class="topbar-actions">
+    <span class="badge" id="contador-activos">0 activos</span>
+    <button id="btn-limpiar" class="btn-ghost">Desmarcar todos</button>
+    <a href="carga.html" class="btn-ghost" style="text-decoration:none;">Cargar estadísticas</a>
+    <a href="geocode.html" class="btn-ghost" style="text-decoration:none;">Recalcular geocodificación</a>
+  </div>
+</header>
+
+<div class="resumen-sistema" id="resumen-sistema"><!-- se llena por JS --></div>
+
+<div class="layout">
+  <aside class="panel" id="panel">
+    <div class="panel-search">
+      <input type="text" id="buscador" placeholder="Buscar municipio, circuito o zona…" autocomplete="off">
+    </div>
+    <div class="municipio-list" id="lista-municipios"><!-- se llena por JS --></div>
+  </aside>
+
+  <main class="map-wrap">
+    <div id="map"></div>
+    <div class="map-note">
+      <strong>Nota:</strong> los tramos se generan geocodificando cada intersección contra OpenStreetMap. Si algún tramo falta o se ve desviado, es porque esa calle/intersección no está bien mapeada en OSM — corrígelo desde <em>Recalcular geocodificación</em> o editando data/circuitos.json a mano.
+    </div>
+  </main>
+</div>
+
+<!-- Modal de descripción -->
+<div class="modal-overlay" id="modal-overlay">
+  <div class="modal">
+    <div class="modal-head">
+      <span class="modal-tag" id="modal-color-dot"></span>
+      <h2 id="modal-titulo">Circuito</h2>
+      <button class="modal-close" id="modal-close">✕</button>
+    </div>
+    <p class="modal-municipio" id="modal-municipio"></p>
+    <div class="modal-stats" id="modal-stats"></div>
+    <p class="modal-ubicacion" id="modal-ubicacion"></p>
+  </div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

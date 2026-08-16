@@ -1,0 +1,3917 @@
+{
+  "circuitos": [
+    {
+      "id": "PZ9",
+      "municipio": "Plaza",
+      "ubicacion": "Calle 4 desde 35 hasta Hidalgo, Hidalgo hasta Lombillo, Panorama desde Lombillo hasta 39, Colón desde Marino hasta Panorama",
+      "segmentos": [
+        {
+          "calle": "4",
+          "desde": "35",
+          "hasta": "Hidalgo"
+        },
+        {
+          "calle": "Hidalgo",
+          "desde": "4",
+          "hasta": "Lombillo"
+        },
+        {
+          "calle": "Panorama",
+          "desde": "Lombillo",
+          "hasta": "39"
+        },
+        {
+          "calle": "Colón",
+          "desde": "Marino",
+          "hasta": "Panorama"
+        }
+      ]
+    },
+    {
+      "id": "1245",
+      "municipio": "Plaza",
+      "ubicacion": "Calle 47 desde 26 hasta 38 (Reparto Kohly); Cuadrante desde el Río Almendares hasta Calle 20 desde Ave. 23 hasta Malecón, Cuadrante desde Calle 6 a 20 y desde Línea a Malecón",
+      "segmentos": [
+        {
+          "calle": "47",
+          "desde": "26",
+          "hasta": "38"
+        },
+        {
+          "calle": "20",
+          "desde": "23",
+          "hasta": "Malecón"
+        },
+        {
+          "calle": "6",
+          "desde": "Línea",
+          "hasta": "Malecón"
+        },
+        {
+          "calle": "20",
+          "desde": "Línea",
+          "hasta": "Malecón"
+        },
+        {
+          "calle": "Línea",
+          "desde": "6",
+          "hasta": "20"
+        },
+        {
+          "calle": "Malecón",
+          "desde": "6",
+          "hasta": "20"
+        }
+      ]
+    },
+    {
+      "id": "PZ13",
+      "municipio": "Plaza",
+      "ubicacion": "Ministerio Economía, Biblioteca Nacional",
+      "puntos": [
+        {
+          "query": "Ministerio de Economía y Planificación, Plaza, La Habana, Cuba"
+        },
+        {
+          "query": "Biblioteca Nacional José Martí, Plaza, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "1249",
+      "municipio": "Plaza",
+      "ubicacion": "Reparto Puentes Grandes,Comunidad Husillo, RepartoPuentes Nuevos, Pogolotti",
+      "puntos": [
+        {
+          "query": "Puentes Grandes, Plaza, La Habana, Cuba"
+        },
+        {
+          "query": "El Husillo, Plaza, La Habana, Cuba"
+        },
+        {
+          "query": "Puentes Nuevos, Plaza, La Habana, Cuba"
+        },
+        {
+          "query": "Pogolotti, Plaza, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "PZ1",
+      "municipio": "Plaza",
+      "ubicacion": "Cuadrantes Calle Línea hasta 27 y 14 a 2, desde Línea a 13 y de 14 a 18.",
+      "segmentos": [
+        {
+          "calle": "14",
+          "desde": "Línea",
+          "hasta": "27"
+        },
+        {
+          "calle": "2",
+          "desde": "Línea",
+          "hasta": "27"
+        },
+        {
+          "calle": "14",
+          "desde": "Línea",
+          "hasta": "13"
+        },
+        {
+          "calle": "18",
+          "desde": "Línea",
+          "hasta": "13"
+        }
+      ]
+    },
+    {
+      "id": "1248",
+      "municipio": "Plaza",
+      "ubicacion": "Calle Ave del Zoológico desde Ave. del Río hasta Ulloa (Nuevo Vedado)",
+      "segmentos": [
+        {
+          "calle": "Avenida del Zoológico",
+          "desde": "Avenida del Río",
+          "hasta": "Ulloa"
+        }
+      ]
+    },
+    {
+      "id": "PZ17",
+      "municipio": "Plaza",
+      "ubicacion": "Hotel Gran Ashton",
+      "puntos": [
+        {
+          "query": "Hotel Gran Ashton, Plaza, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "PZ4",
+      "municipio": "Plaza",
+      "ubicacion": "Calle 27, 2 hasta B, B desde 27 hasta 21, calle 21 desde B hasta E, calle E desde 29 hasta 9, calle C hasta G desde 21, calle 19 hasta 13 desde G hasta J, calle 17 desde O hasta 6, calle 4 desde 19 hasta 11",
+      "segmentos": [
+        {
+          "calle": "27",
+          "desde": "2",
+          "hasta": "B"
+        },
+        {
+          "calle": "B",
+          "desde": "27",
+          "hasta": "21"
+        },
+        {
+          "calle": "21",
+          "desde": "B",
+          "hasta": "E"
+        },
+        {
+          "calle": "E",
+          "desde": "29",
+          "hasta": "9"
+        },
+        {
+          "calle": "21",
+          "desde": "C",
+          "hasta": "G"
+        },
+        {
+          "calle": "G",
+          "desde": "19",
+          "hasta": "13"
+        },
+        {
+          "calle": "J",
+          "desde": "19",
+          "hasta": "13"
+        },
+        {
+          "calle": "17",
+          "desde": "O",
+          "hasta": "6"
+        },
+        {
+          "calle": "4",
+          "desde": "19",
+          "hasta": "11"
+        }
+      ]
+    },
+    {
+      "id": "PZ24",
+      "municipio": "Plaza",
+      "ubicacion": "Calle 2 desde 27 hasta 19, calle 19 desde 2 hasta 8, calle B desde 21 hasta 1ra, calle B desde A hasta D, calle C desde 13 hasta 1ra, 7ma desde A hasta M, 5ta y 3ra desde B hasta G, 9na hasta Malecón, A hasta K, 11 desde G hasta L",
+      "segmentos": [
+        {
+          "calle": "2",
+          "desde": "27",
+          "hasta": "19"
+        },
+        {
+          "calle": "19",
+          "desde": "2",
+          "hasta": "8"
+        },
+        {
+          "calle": "B",
+          "desde": "21",
+          "hasta": "1"
+        },
+        {
+          "calle": "B",
+          "desde": "A",
+          "hasta": "D"
+        },
+        {
+          "calle": "C",
+          "desde": "13",
+          "hasta": "1"
+        },
+        {
+          "calle": "7",
+          "desde": "A",
+          "hasta": "M"
+        },
+        {
+          "calle": "5",
+          "desde": "B",
+          "hasta": "G"
+        },
+        {
+          "calle": "3",
+          "desde": "B",
+          "hasta": "G"
+        },
+        {
+          "calle": "9",
+          "desde": "G",
+          "hasta": "Malecón"
+        },
+        {
+          "calle": "A",
+          "desde": "9",
+          "hasta": "K"
+        },
+        {
+          "calle": "11",
+          "desde": "G",
+          "hasta": "L"
+        }
+      ]
+    },
+    {
+      "id": "PZ16",
+      "municipio": "Plaza",
+      "ubicacion": "37 desde 4 hasta 6, 6 desde 37 hasta San Pedro, San Pedro desde Marino hasta Mariano, Ayestarán desde San Pedro hasta 20 de Mayo, 20 de Mayo desde Ayestarán hasta Amenidad, Amenidad hasta Calzada del Cerro y Edificios de la Esquina de Tejas.",
+      "segmentos": [
+        {
+          "calle": "37",
+          "desde": "4",
+          "hasta": "6"
+        },
+        {
+          "calle": "6",
+          "desde": "37",
+          "hasta": "San Pedro"
+        },
+        {
+          "calle": "San Pedro",
+          "desde": "Marino",
+          "hasta": "Mariano"
+        },
+        {
+          "calle": "Ayestarán",
+          "desde": "San Pedro",
+          "hasta": "20 de Mayo"
+        },
+        {
+          "calle": "20 de Mayo",
+          "desde": "Ayestarán",
+          "hasta": "Amenidad"
+        },
+        {
+          "calle": "Amenidad",
+          "desde": "20 de Mayo",
+          "hasta": "Calzada del Cerro"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Esquina de Tejas, Plaza, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "PZ7",
+      "municipio": "Plaza",
+      "ubicacion": "Cuadrante desde calle 4 hasta A, 11 hasta Malecón",
+      "segmentos": [
+        {
+          "calle": "4",
+          "desde": "11",
+          "hasta": "Malecón"
+        },
+        {
+          "calle": "A",
+          "desde": "11",
+          "hasta": "Malecón"
+        },
+        {
+          "calle": "11",
+          "desde": "4",
+          "hasta": "A"
+        },
+        {
+          "calle": "Malecón",
+          "desde": "4",
+          "hasta": "A"
+        }
+      ]
+    },
+    {
+      "id": "PZ5",
+      "municipio": "Plaza",
+      "ubicacion": "Calle 2 desde 27 hasta 25, 25 desde 2 hasta B, A desde 25 hasta 23, 23 desde 4 hasta J, J desde 25 hasta 23, 25 desde J hasta M, 27 desde J hasta O, M desde San Lázaro hasta 25",
+      "segmentos": [
+        {
+          "calle": "2",
+          "desde": "27",
+          "hasta": "25"
+        },
+        {
+          "calle": "25",
+          "desde": "2",
+          "hasta": "B"
+        },
+        {
+          "calle": "A",
+          "desde": "25",
+          "hasta": "23"
+        },
+        {
+          "calle": "23",
+          "desde": "4",
+          "hasta": "J"
+        },
+        {
+          "calle": "J",
+          "desde": "25",
+          "hasta": "23"
+        },
+        {
+          "calle": "25",
+          "desde": "J",
+          "hasta": "M"
+        },
+        {
+          "calle": "27",
+          "desde": "J",
+          "hasta": "O"
+        },
+        {
+          "calle": "M",
+          "desde": "San Lázaro",
+          "hasta": "25"
+        }
+      ]
+    },
+    {
+      "id": "PZ15",
+      "municipio": "Plaza",
+      "ubicacion": "Calle 35 desde 4 hasta 6, 6 desde 35 hasta 37, 37 desde 6 hasta Loma, Loma desde 35 hasta Tulipán, Lombillo desde 39 hasta Boyeros, Marino hasta Panorama, Lombillo hasta Talleres",
+      "segmentos": [
+        {
+          "calle": "35",
+          "desde": "4",
+          "hasta": "6"
+        },
+        {
+          "calle": "6",
+          "desde": "35",
+          "hasta": "37"
+        },
+        {
+          "calle": "37",
+          "desde": "6",
+          "hasta": "Loma"
+        },
+        {
+          "calle": "Loma",
+          "desde": "35",
+          "hasta": "Tulipán"
+        },
+        {
+          "calle": "Lombillo",
+          "desde": "39",
+          "hasta": "Boyeros"
+        },
+        {
+          "calle": "Marino",
+          "desde": "Lombillo",
+          "hasta": "Panorama"
+        },
+        {
+          "calle": "Lombillo",
+          "desde": "Panorama",
+          "hasta": "Talleres"
+        }
+      ]
+    },
+    {
+      "id": "PZ14",
+      "municipio": "Plaza",
+      "ubicacion": "Calle 14 desde Zapata hasta 23, 23 desde 14 hasta 26, 23 hasta 38, 26 desde 23 hasta 33",
+      "segmentos": [
+        {
+          "calle": "14",
+          "desde": "Zapata",
+          "hasta": "23"
+        },
+        {
+          "calle": "23",
+          "desde": "14",
+          "hasta": "26"
+        },
+        {
+          "calle": "23",
+          "desde": "26",
+          "hasta": "38"
+        },
+        {
+          "calle": "26",
+          "desde": "23",
+          "hasta": "33"
+        }
+      ]
+    },
+    {
+      "id": "P317",
+      "municipio": "Plaza",
+      "ubicacion": "Hotel 25 y K",
+      "puntos": [
+        {
+          "query": "Hotel 25 y K, Vedado, Plaza, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "PZ19",
+      "municipio": "Plaza",
+      "ubicacion": "Calle 21 desde 2 hasta K, J desde 21 hasta 19, 19 desde J hasta O, M desde 25 hasta 19",
+      "segmentos": [
+        {
+          "calle": "21",
+          "desde": "2",
+          "hasta": "K"
+        },
+        {
+          "calle": "J",
+          "desde": "21",
+          "hasta": "19"
+        },
+        {
+          "calle": "19",
+          "desde": "J",
+          "hasta": "O"
+        },
+        {
+          "calle": "M",
+          "desde": "25",
+          "hasta": "19"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "municipio": "San Miguel del Padrón",
+      "ubicacion": "Martín Pérez, Cuidamar, Carolina y Alturas de Luyanó",
+      "puntos": [
+        {
+          "query": "Martín Pérez, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Cuidamar, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Carolina, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Alturas de Luyanó, San Miguel del Padrón, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "H442",
+      "municipio": "San Miguel del Padrón",
+      "ubicacion": "Barrio Obrero, Jacomino, California, María Cristina",
+      "puntos": [
+        {
+          "query": "Barrio Obrero, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Jacomino, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "California, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "María Cristina, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "H443",
+      "municipio": "San Miguel del Padrón",
+      "ubicacion": "Reparto Los Ángeles, Rocafol, La Rosalía, La Fernanda y Juanelo",
+      "puntos": [
+        {
+          "query": "Los Ángeles, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Rocafort, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "La Rosalía, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "La Fernanda, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Juanelo, San Miguel del Padrón, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "S512",
+      "municipio": "San Miguel del Padrón",
+      "ubicacion": "Repartos: La Rosita, La Cumbre, Diezmero, Dolores, Tejas, Florida, Caridad",
+      "puntos": [
+        {
+          "query": "La Rosita, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "La Cumbre, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Diezmero, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Dolores, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Tejas, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Florida, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Caridad, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "S513",
+      "municipio": "San Miguel del Padrón",
+      "ubicacion": "Repartos Alturas de San Miguel del Padrón, Afán, Capitán Núñez, Mirador, Alturas del Mirador y Delicia",
+      "puntos": [
+        {
+          "query": "Alturas de San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Afán, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Capitán Núñez, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Mirador, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Alturas del Mirador, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Delicia, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "S514",
+      "municipio": "San Miguel del Padrón",
+      "ubicacion": "Repartos: San Matias, Veracruz, Maria Luisa, Lajas / Acueducto San Matías",
+      "puntos": [
+        {
+          "query": "San Matías, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Veracruz, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "María Luisa, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Lajas, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A490",
+      "municipio": "San Miguel del Padrón",
+      "ubicacion": "La Cumbre, Dolores, La Rosita",
+      "puntos": [
+        {
+          "query": "La Cumbre, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Dolores, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "La Rosita, San Miguel del Padrón, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A495",
+      "municipio": "San Miguel del Padrón",
+      "ubicacion": "La Rosita, Cumbre, Diezmero, Dolores, Tejas, Florida, Caridad",
+      "puntos": [
+        {
+          "query": "La Rosita, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "La Cumbre, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Diezmero, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Dolores, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Tejas, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Florida, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Caridad, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A425",
+      "municipio": "San Miguel del Padrón",
+      "ubicacion": "La Solita, El Cuervo, Buenos Aires, Las Lajas",
+      "puntos": [
+        {
+          "query": "La Solita, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "El Cuervo, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Buenos Aires, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Las Lajas, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A1380",
+      "municipio": "San Miguel del Padrón",
+      "ubicacion": "Villa María, Federal, Villa Haydee, Migloria, Villa Nomar, Altura de Villa María, Cambute, Presa Cacao",
+      "puntos": [
+        {
+          "query": "Villa María, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Federal, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Villa Haydée, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Mig loria, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Villa Nomar, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Altura de Villa María, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Cambute, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Presa Cacao, San Miguel del Padrón, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "S515",
+      "municipio": "San Miguel del Padrón",
+      "ubicacion": "Repartos: Alturas del Mirador, Residencial San Miguel, San Juan de los Pinos, Mirta, Las Granjas",
+      "puntos": [
+        {
+          "query": "Alturas del Mirador, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Residencial San Miguel, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "San Juan de los Pinos, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Mirta, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Las Granjas, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "MR450",
+      "municipio": "San Miguel del Padrón",
+      "ubicacion": "Monterrey",
+      "puntos": [
+        {
+          "query": "Monterrey, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "S516",
+      "municipio": "San Miguel del Padrón",
+      "ubicacion": "Repartos: Las Piedras, Bella Vista, Altura de San Francisco, Emilio Mola, Merceditas, San Francisco de Paula.",
+      "puntos": [
+        {
+          "query": "Las Piedras, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Bella Vista, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Altura de San Francisco, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Emilio Mola, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "Merceditas, San Miguel del Padrón, San Miguel del Padrón, La Habana, Cuba"
+        },
+        {
+          "query": "San Francisco de Paula, San Miguel del Padrón, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "D631",
+      "municipio": "10 de Octubre",
+      "ubicacion": "Parte de Santos Suárez cuadrante desde Acosta hasta Altarriba y Calzada 10 de Octubre hasta Porvenir",
+      "segmentos": [
+        {
+          "calle": "Acosta",
+          "desde": "Calzada de 10 de Octubre",
+          "hasta": "Porvenir"
+        },
+        {
+          "calle": "Altarriba",
+          "desde": "Calzada de 10 de Octubre",
+          "hasta": "Porvenir"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Santos Suárez, 10 de Octubre, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "H341",
+      "municipio": "10 de Octubre",
+      "ubicacion": "Cuadrante desde Vía Blanca hasta Correa y Calzada 10 de Octubre a Flores en Santos Suárez",
+      "segmentos": [
+        {
+          "calle": "Vía Blanca",
+          "desde": "Calzada de 10 de Octubre",
+          "hasta": "Flores"
+        },
+        {
+          "calle": "Correa",
+          "desde": "Calzada de 10 de Octubre",
+          "hasta": "Flores"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Santos Suárez, 10 de Octubre, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A980",
+      "municipio": "10 de Octubre",
+      "ubicacion": "Luyanó cuadrante de Concha a Arango, desde Ensenada a Línea de Ferrocarril, cuadrante desde Velázquez a Calzada, Luyanó, desde Melones a Concha, reparto Asunción desde Calzada de Luyanó a Pasaje Córdova y desde Manuel Pruna, Línea de Ferrocarril",
+      "segmentos": [
+        {
+          "calle": "Concha",
+          "desde": "Ensenada",
+          "hasta": "Línea de Ferrocarril"
+        },
+        {
+          "calle": "Arango",
+          "desde": "Ensenada",
+          "hasta": "Línea de Ferrocarril"
+        },
+        {
+          "calle": "Velázquez",
+          "desde": "Melones",
+          "hasta": "Concha"
+        },
+        {
+          "calle": "Calzada de Luyanó",
+          "desde": "Melones",
+          "hasta": "Concha"
+        },
+        {
+          "calle": "Pasaje Córdova",
+          "desde": "Calzada de Luyanó",
+          "hasta": "Manuel Pruna"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Luyanó, 10 de Octubre, La Habana, Cuba"
+        },
+        {
+          "query": "Reparto Asunción, Luyanó, 10 de Octubre, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A815",
+      "municipio": "10 de Octubre",
+      "ubicacion": "Calzada de Vento desde Línea de Ferrocarril hasta Camagüey, calles desde Acosta hasta Carmen y desde Figueroa hasta Párraga, calles desde Úrsula hasta Carmen y desde Gelabert hasta Goicuría en Sevillano",
+      "segmentos": [
+        {
+          "calle": "Calzada de Vento",
+          "desde": "Línea de Ferrocarril",
+          "hasta": "Camagüey"
+        },
+        {
+          "calle": "Acosta",
+          "desde": "Figueroa",
+          "hasta": "Párraga"
+        },
+        {
+          "calle": "Carmen",
+          "desde": "Figueroa",
+          "hasta": "Párraga"
+        },
+        {
+          "calle": "Úrsula",
+          "desde": "Gelabert",
+          "hasta": "Goicuría"
+        },
+        {
+          "calle": "Carmen",
+          "desde": "Gelabert",
+          "hasta": "Goicuría"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Sevillano, 10 de Octubre, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "T44",
+      "municipio": "10 de Octubre",
+      "ubicacion": "En Luyanó entre calles Avenida 10 de octubre, Calzada de Luyanó y Tres Palacios",
+      "segmentos": [
+        {
+          "calle": "Avenida 10 de Octubre",
+          "desde": "Calzada de Luyanó",
+          "hasta": "Tres Palacios"
+        },
+        {
+          "calle": "Calzada de Luyanó",
+          "desde": "Avenida 10 de Octubre",
+          "hasta": "Tres Palacios"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Luyanó, 10 de Octubre, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "T41",
+      "municipio": "10 de Octubre",
+      "ubicacion": "En Luyanó entre calles Avenida 10 de octubre, Calzada de Luyanó y Tres Palacios",
+      "segmentos": [
+        {
+          "calle": "Avenida 10 de Octubre",
+          "desde": "Calzada de Luyanó",
+          "hasta": "Tres Palacios"
+        },
+        {
+          "calle": "Calzada de Luyanó",
+          "desde": "Avenida 10 de Octubre",
+          "hasta": "Tres Palacios"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Luyanó, 10 de Octubre, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "2210",
+      "municipio": "10 de Octubre",
+      "ubicacion": "Camagüey desde Callejón de Los Perros hasta Calzada de Vento, Callejón de Los Perros desde Línea de Ferrocarril hasta Camagüey, Calzada de Vento desde Camagüey hasta Calzada de Vento 2, Calzada de Vento hasta Boss, Vista Alegre hasta San Mariano, Víbora, Santos Suárez",
+      "segmentos": [
+        {
+          "calle": "Camagüey",
+          "desde": "Callejón de Los Perros",
+          "hasta": "Calzada de Vento"
+        },
+        {
+          "calle": "Callejón de Los Perros",
+          "desde": "Línea de Ferrocarril",
+          "hasta": "Camagüey"
+        },
+        {
+          "calle": "Calzada de Vento",
+          "desde": "Camagüey",
+          "hasta": "Boss"
+        },
+        {
+          "calle": "Vista Alegre",
+          "desde": "Calzada de Vento",
+          "hasta": "San Mariano"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Víbora, 10 de Octubre, La Habana, Cuba"
+        },
+        {
+          "query": "Santos Suárez, 10 de Octubre, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "D633",
+      "municipio": "10 de Octubre",
+      "ubicacion": "Avenida de Acosta desde Milagros Este a 2da, cuadrante desde calle 2da a Avenida Porvenir y desde Avenida de Acosta a Línea de Ferrocarril , Arroyo Apolo en calle San Leonardo desde calle 2da a Cordova, calle Roma entre Lourdes y Cordova",
+      "segmentos": [
+        {
+          "calle": "Avenida de Acosta",
+          "desde": "Milagros",
+          "hasta": "2da"
+        },
+        {
+          "calle": "San Leonardo",
+          "desde": "2da",
+          "hasta": "Cordova"
+        },
+        {
+          "calle": "Roma",
+          "desde": "Lourdes",
+          "hasta": "Cordova"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Arroyo Apolo, 10 de Octubre, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "D634",
+      "municipio": "10 de Octubre",
+      "ubicacion": "Cuadrante entre Milagros, Figueroa, Vista Alegre y 10 de Octubre, también 10 de Octubre, San Leonardo, Lourdes y Kessel. Víbora Park, Sevillano, Víbora, Santos Suárez, Lawton",
+      "segmentos": [
+        {
+          "calle": "Milagros",
+          "desde": "Figueroa",
+          "hasta": "Vista Alegre"
+        },
+        {
+          "calle": "Calzada de 10 de Octubre",
+          "desde": "Figueroa",
+          "hasta": "Vista Alegre"
+        },
+        {
+          "calle": "San Leonardo",
+          "desde": "Lourdes",
+          "hasta": "Kessel"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Víbora Park, 10 de Octubre, La Habana, Cuba"
+        },
+        {
+          "query": "Sevillano, 10 de Octubre, La Habana, Cuba"
+        },
+        {
+          "query": "Víbora, 10 de Octubre, La Habana, Cuba"
+        },
+        {
+          "query": "Santos Suárez, 10 de Octubre, La Habana, Cuba"
+        },
+        {
+          "query": "Lawton, 10 de Octubre, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A465",
+      "municipio": "10 de Octubre",
+      "ubicacion": "Parte de Lawton, calle 8 hasta 16 y C hasta San Francisco",
+      "segmentos": [
+        {
+          "calle": "C",
+          "desde": "8",
+          "hasta": "16"
+        },
+        {
+          "calle": "San Francisco",
+          "desde": "8",
+          "hasta": "16"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Lawton, 10 de Octubre, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A1009",
+      "municipio": "10 de Octubre",
+      "ubicacion": "Parte de Lawton desde Luz a Línea de Ferrocarril y desde C hasta H, cuadrante de calle Dolores hasta C y calle 14 hasta 17, reparto Vista Alegre",
+      "segmentos": [
+        {
+          "calle": "Luz",
+          "desde": "C",
+          "hasta": "H"
+        },
+        {
+          "calle": "Dolores",
+          "desde": "14",
+          "hasta": "17"
+        },
+        {
+          "calle": "C",
+          "desde": "14",
+          "hasta": "17"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Lawton, 10 de Octubre, La Habana, Cuba"
+        },
+        {
+          "query": "Vista Alegre, 10 de Octubre, 10 de Octubre, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "H342",
+      "municipio": "Centro Habana",
+      "ubicacion": "Calle Cristina desde 4 Caminos a San Joaquín, Ataré",
+      "segmentos": [
+        {
+          "calle": "Cristina",
+          "desde": "4 Caminos",
+          "hasta": "San Joaquín"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Atarés, Centro Habana, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "P327",
+      "municipio": "Centro Habana",
+      "ubicacion": "Infanta, Ayestarán, Zequeira, Desagüe y Pozos Dulces",
+      "puntos": [
+        {
+          "query": "Calle Infanta, Centro Habana, Centro Habana, La Habana, Cuba"
+        },
+        {
+          "query": "Calle Ayestarán, Centro Habana, Centro Habana, La Habana, Cuba"
+        },
+        {
+          "query": "Calle Zequeira, Centro Habana, Centro Habana, La Habana, Cuba"
+        },
+        {
+          "query": "Calle Desagüe, Centro Habana, Centro Habana, La Habana, Cuba"
+        },
+        {
+          "query": "Calle Pozos Dulces, Centro Habana, Centro Habana, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A980",
+      "municipio": "Centro Habana",
+      "ubicacion": "Luyanó cuadrante de Concha a Arango, desde Ensenada a Línea de Ferrocarril, cuadrante desde Velázquez a Calzada, Luyanó, desde Melones a Concha, reparto Asunción desde Calzada de Luyanó a Pasaje Córdova y desde Manuel Pruna, Línea de Ferrocarril",
+      "segmentos": [
+        {
+          "calle": "Concha",
+          "desde": "Ensenada",
+          "hasta": "Línea de Ferrocarril"
+        },
+        {
+          "calle": "Arango",
+          "desde": "Ensenada",
+          "hasta": "Línea de Ferrocarril"
+        },
+        {
+          "calle": "Velázquez",
+          "desde": "Melones",
+          "hasta": "Concha"
+        },
+        {
+          "calle": "Calzada de Luyanó",
+          "desde": "Melones",
+          "hasta": "Concha"
+        },
+        {
+          "calle": "Pasaje Córdova",
+          "desde": "Calzada de Luyanó",
+          "hasta": "Manuel Pruna"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Luyanó, Centro Habana, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "OP321",
+      "municipio": "Centro Habana",
+      "ubicacion": "Lealtad desde Sitios hasta Malecón, Campanario desde Escobar hasta Rayo, Reyna hasta Sitios, Escobar hasta Ángeles, Águila desde Puerta Serrada hasta Monte y Revillagigedo hasta Anton Recio.",
+      "segmentos": [
+        {
+          "calle": "Lealtad",
+          "desde": "Sitios",
+          "hasta": "Malecón"
+        },
+        {
+          "calle": "Campanario",
+          "desde": "Escobar",
+          "hasta": "Rayo"
+        },
+        {
+          "calle": "Reyna",
+          "desde": "Campanario",
+          "hasta": "Sitios"
+        },
+        {
+          "calle": "Escobar",
+          "desde": "Campanario",
+          "hasta": "Ángeles"
+        },
+        {
+          "calle": "Águila",
+          "desde": "Puerta Cerrada",
+          "hasta": "Monte"
+        },
+        {
+          "calle": "Revillagigedo",
+          "desde": "Águila",
+          "hasta": "Antón Recio"
+        }
+      ]
+    },
+    {
+      "id": "P314",
+      "municipio": "Centro Habana",
+      "ubicacion": "Xifre desde Sitio hasta Jesús Peregrino, San Francisco desde Pocito hasta Infanta, San Francisco hasta Marina y San Lázaro hasta Humbolt",
+      "segmentos": [
+        {
+          "calle": "Xifré",
+          "desde": "Sitios",
+          "hasta": "Jesús Peregrino"
+        },
+        {
+          "calle": "San Francisco",
+          "desde": "Pocito",
+          "hasta": "Infanta"
+        },
+        {
+          "calle": "San Francisco",
+          "desde": "Infanta",
+          "hasta": "Marina"
+        },
+        {
+          "calle": "San Lázaro",
+          "desde": "Marina",
+          "hasta": "Humboldt"
+        }
+      ]
+    },
+    {
+      "id": "P318",
+      "municipio": "Centro Habana",
+      "ubicacion": "Placencia desde Sitios hasta Carlos III, Estrella desde Placencia hasta Escobar, Márquez González hasta Escobar, Peñalver hasta Estrella, Oquendo desde Carlos III hasta Animas, Oquendo hasta Lucena y San Miguel",
+      "segmentos": [
+        {
+          "calle": "Placencia",
+          "desde": "Sitios",
+          "hasta": "Carlos III"
+        },
+        {
+          "calle": "Estrella",
+          "desde": "Placencia",
+          "hasta": "Escobar"
+        },
+        {
+          "calle": "Márquez González",
+          "desde": "Estrella",
+          "hasta": "Escobar"
+        },
+        {
+          "calle": "Peñalver",
+          "desde": "Márquez González",
+          "hasta": "Estrella"
+        },
+        {
+          "calle": "Oquendo",
+          "desde": "Carlos III",
+          "hasta": "Animas"
+        },
+        {
+          "calle": "Oquendo",
+          "desde": "Lucena",
+          "hasta": "San Miguel"
+        }
+      ]
+    },
+    {
+      "id": "P319",
+      "municipio": "Centro Habana",
+      "ubicacion": "Castillejo desde Carlos III hasta Jesús Peregrino, Carlos III hasta Concordia y Hospital hasta Soledad",
+      "segmentos": [
+        {
+          "calle": "Castillejo",
+          "desde": "Carlos III",
+          "hasta": "Jesús Peregrino"
+        },
+        {
+          "calle": "Carlos III",
+          "desde": "Castillejo",
+          "hasta": "Concordia"
+        },
+        {
+          "calle": "Hospital",
+          "desde": "Carlos III",
+          "hasta": "Soledad"
+        }
+      ]
+    },
+    {
+      "id": "P322",
+      "municipio": "Centro Habana",
+      "ubicacion": "Sitios desde Xifre hasta Retiro, Placencia hasta Oquendo, Sitios hasta Manglar, Matadero hasta Benjumeda y Mercado hasta Nueva del Pilar",
+      "segmentos": [
+        {
+          "calle": "Sitios",
+          "desde": "Xifré",
+          "hasta": "Retiro"
+        },
+        {
+          "calle": "Placencia",
+          "desde": "Sitios",
+          "hasta": "Oquendo"
+        },
+        {
+          "calle": "Sitios",
+          "desde": "Oquendo",
+          "hasta": "Manglar"
+        },
+        {
+          "calle": "Matadero",
+          "desde": "Sitios",
+          "hasta": "Benjumeda"
+        },
+        {
+          "calle": "Mercado",
+          "desde": "Matadero",
+          "hasta": "Nueva del Pilar"
+        }
+      ]
+    },
+    {
+      "id": "SR820",
+      "municipio": "Cotorro",
+      "ubicacion": "Altura de Lotería.",
+      "puntos": [
+        {
+          "query": "Altura de Lotería, Cotorro, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "SR830",
+      "municipio": "Cotorro",
+      "ubicacion": "Delicias",
+      "puntos": [
+        {
+          "query": "Delicias, Cotorro, Cotorro, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "D700",
+      "municipio": "Cotorro",
+      "ubicacion": "Centro del Cotorro, Las Brisas",
+      "puntos": [
+        {
+          "query": "Centro del Cotorro, Cotorro, La Habana, Cuba"
+        },
+        {
+          "query": "Las Brisas, Cotorro, Cotorro, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "SR840",
+      "municipio": "Cotorro",
+      "ubicacion": "Centro del Cotorro, Las Brisas",
+      "puntos": [
+        {
+          "query": "Centro del Cotorro, Cotorro, La Habana, Cuba"
+        },
+        {
+          "query": "Las Brisas, Cotorro, Cotorro, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A1042",
+      "municipio": "Cotorro",
+      "ubicacion": "Alturas de Lotería, Alberro / Acueducto Cotorro 7 y Loma de Tierra.",
+      "puntos": [
+        {
+          "query": "Alturas de Lotería, Cotorro, La Habana, Cuba"
+        },
+        {
+          "query": "Alberro, Cotorro, Cotorro, La Habana, Cuba"
+        },
+        {
+          "query": "Loma de Tierra, Cotorro, Cotorro, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "D1300",
+      "municipio": "Cotorro",
+      "ubicacion": "Águila Hatuey, Purísima, Magdalena / Acueducto Cotorro 3",
+      "puntos": [
+        {
+          "query": "Águila Hatuey, Cotorro, La Habana, Cuba"
+        },
+        {
+          "query": "Purísima, Cotorro, Cotorro, La Habana, Cuba"
+        },
+        {
+          "query": "Magdalena, Cotorro, Cotorro, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "D1305",
+      "municipio": "Cotorro",
+      "ubicacion": "Santa Ana, Lotería y Santa Clara",
+      "puntos": [
+        {
+          "query": "Santa Ana, Cotorro, Cotorro, La Habana, Cuba"
+        },
+        {
+          "query": "Lotería, Cotorro, Cotorro, La Habana, Cuba"
+        },
+        {
+          "query": "Santa Clara, Cotorro, Cotorro, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A1380",
+      "municipio": "Cotorro",
+      "ubicacion": "Berenguer, Calabazar, Altura de Calabazar / Acueducto América 10",
+      "puntos": [
+        {
+          "query": "Berenguer, Cotorro, Cotorro, La Habana, Cuba"
+        },
+        {
+          "query": "Calabazar, Cotorro, Cotorro, La Habana, Cuba"
+        },
+        {
+          "query": "Altura de Calabazar, Cotorro, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "GC19",
+      "municipio": "Guanabacoa",
+      "ubicacion": "Reparto Roble, Reparto Militar, Fuentes Blancas, La Hata, Naranjo y Pomo de Oro",
+      "puntos": [
+        {
+          "query": "Reparto Roble, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Reparto Militar, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Fuentes Blancas, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "La Hata, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Naranjo, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Pomo de Oro, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "R464",
+      "municipio": "Guanabacoa",
+      "ubicacion": "Altura de Vía Blanca, Habana Nueva, La Cotorra, Villa1, Modelo",
+      "puntos": [
+        {
+          "query": "Altura de Vía Blanca, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Habana Nueva, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "La Cotorra, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Villa 1, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Modelo, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "GC11",
+      "municipio": "Guanabacoa",
+      "ubicacion": "Reparto Garrido, Alrededores de calles Soledad, La Palma, Santo Domingo, Pepe Antonio, División, Padilla y Quintín",
+      "puntos": [
+        {
+          "query": "Reparto Garrido, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Calle Soledad, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Calle La Palma, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Calle Santo Domingo, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Calle Pepe Antonio, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Calle División, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Calle Padilla, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Calle Quintín, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "GC13",
+      "municipio": "Guanabacoa",
+      "ubicacion": "Mambí, Garrido, Centro de Guanabacoa",
+      "puntos": [
+        {
+          "query": "Mambí, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Garrido, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Centro de Guanabacoa, Guanabacoa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "R454",
+      "municipio": "Guanabacoa",
+      "ubicacion": "Mañana, Valero, Vía Blanca, Azotea, Vista Alegre",
+      "puntos": [
+        {
+          "query": "Mañana, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Valero, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Vía Blanca, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Azotea, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Vista Alegre, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A1380",
+      "municipio": "Guanabacoa",
+      "ubicacion": "Villa María, Federal, Villa Haydée, Migloria, Villa Nomar, Altura de Villa María, Cambute, Presa Cacao",
+      "puntos": [
+        {
+          "query": "Villa María, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Federal, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Villa Haydée, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Migloria, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Villa Nomar, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Cambute, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Presa Cacao, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "D1050",
+      "municipio": "Guanabacoa",
+      "ubicacion": "Barreras",
+      "puntos": [
+        {
+          "query": "Barreras, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "D1055",
+      "municipio": "Guanabacoa",
+      "ubicacion": "Las Minas, Gallega, Arango",
+      "puntos": [
+        {
+          "query": "Las Minas, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "La Gallega, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Arango, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A318",
+      "municipio": "Guanabacoa",
+      "ubicacion": "Alecrín, Peñalver, Carretera Monumental",
+      "puntos": [
+        {
+          "query": "Alecrín, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Peñalver, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Carretera Monumental, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A1075",
+      "municipio": "Guanabacoa",
+      "ubicacion": "Ricabal, La Lima, Santa Fe, La Caridad, Bacuranao, Alecrín, Peñalver, Carretera Monumental, Zona Industrial de Berroa",
+      "puntos": [
+        {
+          "query": "Ricabal, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "La Lima, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Santa Fe, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "La Caridad, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Bacuranao, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Zona Industrial de Berroa, Guanabacoa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A1071",
+      "municipio": "Guanabacoa",
+      "ubicacion": "Planta de Herraje",
+      "puntos": [
+        {
+          "query": "Planta de Herraje, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A1455",
+      "municipio": "Guanabacoa",
+      "ubicacion": "D´Beche, Nalón",
+      "puntos": [
+        {
+          "query": "D'Beche, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        },
+        {
+          "query": "Nalón, Guanabacoa, Guanabacoa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "MB960",
+      "municipio": "Habana del Este",
+      "ubicacion": "Guanabo, La Conchita, La Benenciana / Acueducto Guanabo y el Profilactorio Nacional",
+      "puntos": [
+        {
+          "query": "Guanabo, Habana del Este, La Habana, Cuba"
+        },
+        {
+          "query": "La Conchita, Habana del Este, Habana del Este, La Habana, Cuba"
+        },
+        {
+          "query": "La Benenciana, Habana del Este, Habana del Este, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "AL56",
+      "municipio": "Habana del Este",
+      "ubicacion": "Zonas: 13, 15, 16, 17, 18, 21, Micro X",
+      "puntos": [
+        {
+          "query": "Alamar, La Habana, Habana del Este, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "AL55",
+      "municipio": "Habana del Este",
+      "ubicacion": "Zonas: 12, 14, 13, 19, 20, 21, 23, 24, 25",
+      "puntos": [
+        {
+          "query": "Alamar, La Habana, Habana del Este, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "MB910",
+      "municipio": "Habana del Este",
+      "ubicacion": "Justiz, Agromar, Bajurayabo, Campo Florido y La Coca.",
+      "puntos": [
+        {
+          "query": "Justiz, Habana del Este, Habana del Este, La Habana, Cuba"
+        },
+        {
+          "query": "Agromar, Habana del Este, Habana del Este, La Habana, Cuba"
+        },
+        {
+          "query": "Bajurayabo, Habana del Este, Habana del Este, La Habana, Cuba"
+        },
+        {
+          "query": "Campo Florido, Habana del Este, La Habana, Cuba"
+        },
+        {
+          "query": "La Coca, Habana del Este, Habana del Este, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "MB920",
+      "municipio": "Habana del Este",
+      "ubicacion": "Altura de Boca Ciega,Santa Marìa del Mar y Villa Mégano",
+      "puntos": [
+        {
+          "query": "Boca Ciega, Habana del Este, La Habana, Cuba"
+        },
+        {
+          "query": "Santa María del Mar, Habana del Este, La Habana, Cuba"
+        },
+        {
+          "query": "Mégano, Habana del Este, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "MB950",
+      "municipio": "Habana del Este",
+      "ubicacion": "Ampliación de Marbella, Guanabo, Bello Monte y Villa del Mar.",
+      "puntos": [
+        {
+          "query": "Marbella, Habana del Este, Habana del Este, La Habana, Cuba"
+        },
+        {
+          "query": "Guanabo, Habana del Este, La Habana, Cuba"
+        },
+        {
+          "query": "Bello Monte, Habana del Este, Habana del Este, La Habana, Cuba"
+        },
+        {
+          "query": "Villa del Mar, Habana del Este, Habana del Este, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "GC7",
+      "municipio": "Habana del Este",
+      "ubicacion": "Cojímar y Comunidad Guamá, Bahía",
+      "puntos": [
+        {
+          "query": "Cojímar, Habana del Este, La Habana, Cuba"
+        },
+        {
+          "query": "Comunidad Guamá, Habana del Este, Habana del Este, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "GC14",
+      "municipio": "Habana del Este",
+      "ubicacion": "Guiteras y Bahía",
+      "puntos": [
+        {
+          "query": "Guiteras, Habana del Este, Habana del Este, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "MB930",
+      "municipio": "Habana del Este",
+      "ubicacion": "Mirador de Marbella, Santa María Loma y Santa María del Mar",
+      "puntos": [
+        {
+          "query": "Mirador de Marbella, Habana del Este, La Habana, Cuba"
+        },
+        {
+          "query": "Santa María Loma, Habana del Este, La Habana, Cuba"
+        },
+        {
+          "query": "Santa María del Mar, Habana del Este, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A1570",
+      "municipio": "Habana del Este",
+      "ubicacion": "Tarará, Cuadrante desde Cobre hasta Taramar y desde 2 hasta 8",
+      "segmentos": [
+        {
+          "calle": "Cobre",
+          "desde": "2",
+          "hasta": "8"
+        },
+        {
+          "calle": "Taramar",
+          "desde": "2",
+          "hasta": "8"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Tarará, Habana del Este, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A1565",
+      "municipio": "Habana del Este",
+      "ubicacion": "Parte de Tarará y del Mégano",
+      "puntos": [
+        {
+          "query": "Tarará, Habana del Este, La Habana, Cuba"
+        },
+        {
+          "query": "Mégano, Habana del Este, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "AL52",
+      "municipio": "Habana del Este",
+      "ubicacion": "Zonas: 6, 7, 8, 9, 10, 11, Micro 4",
+      "puntos": [
+        {
+          "query": "Alamar, La Habana, Habana del Este, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "GC12",
+      "municipio": "Habana del Este",
+      "ubicacion": "Cojímar",
+      "puntos": [
+        {
+          "query": "Cojímar, Habana del Este, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "GC15",
+      "municipio": "Habana del Este",
+      "ubicacion": "Chivás, Vía Blanca desde San Luis hasta Circunvalación.",
+      "segmentos": [
+        {
+          "calle": "Vía Blanca",
+          "desde": "San Luis",
+          "hasta": "Circunvalación"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Chivás, Habana del Este, Habana del Este, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "GC18",
+      "municipio": "Habana del Este",
+      "ubicacion": "Zona Franca de Berroa",
+      "puntos": [
+        {
+          "query": "Zona Franca de Berroa, Habana del Este, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "AL57",
+      "municipio": "Habana del Este",
+      "ubicacion": "Zonas: Colina Villa Real y Celimar",
+      "puntos": [
+        {
+          "query": "Colina Villa Real, Habana del Este, Habana del Este, La Habana, Cuba"
+        },
+        {
+          "query": "Celimar, Habana del Este, Habana del Este, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "D1140",
+      "municipio": "Habana del Este",
+      "ubicacion": "Peñas Altas",
+      "puntos": [
+        {
+          "query": "Peñas Altas, Habana del Este, Habana del Este, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A1516",
+      "municipio": "Habana del Este",
+      "ubicacion": "Casa Blanca",
+      "puntos": [
+        {
+          "query": "Casa Blanca, La Habana, Habana del Este, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A1223_LL",
+      "municipio": "La Lisa",
+      "ubicacion": "Reparto Los Avioncitos, La Coronela, calle 230 desde 27 a 51, San Agustín.",
+      "segmentos": [
+        {
+          "calle": "230",
+          "desde": "27",
+          "hasta": "51"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Los Avioncitos, La Lisa, La Lisa, La Habana, Cuba"
+        },
+        {
+          "query": "La Coronela, La Lisa, La Lisa, La Habana, Cuba"
+        },
+        {
+          "query": "San Agustín, La Lisa, La Lisa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "D740",
+      "municipio": "La Lisa",
+      "ubicacion": "Punta Brava, El Guatao y Estrella Roja.",
+      "puntos": [
+        {
+          "query": "Punta Brava, La Lisa, La Lisa, La Habana, Cuba"
+        },
+        {
+          "query": "El Guatao, La Lisa, La Lisa, La Habana, Cuba"
+        },
+        {
+          "query": "Estrella Roja, La Lisa, La Lisa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "D640",
+      "municipio": "La Lisa",
+      "ubicacion": "La Concepción , XX Aniversario y Plan 160.",
+      "puntos": [
+        {
+          "query": "La Concepción, La Lisa, La Lisa, La Habana, Cuba"
+        },
+        {
+          "query": "XX Aniversario, La Lisa, La Lisa, La Habana, Cuba"
+        },
+        {
+          "query": "Plan 160, La Lisa, La Lisa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A1217",
+      "municipio": "La Lisa",
+      "ubicacion": "Reparto Versalles, calle 51 desde 190 hasta 222 (Reparto San Rafael).",
+      "segmentos": [
+        {
+          "calle": "51",
+          "desde": "190",
+          "hasta": "222"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Versalles, La Lisa, La Lisa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "2075",
+      "municipio": "La Lisa",
+      "ubicacion": "Calle 250 desde 51 hasta 23 en San Agustín, Barbosa.",
+      "segmentos": [
+        {
+          "calle": "250",
+          "desde": "51",
+          "hasta": "23"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Barbosa, La Lisa, La Lisa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "2074",
+      "municipio": "La Lisa",
+      "ubicacion": "Alturas de La Lisa y San Rafael.",
+      "puntos": [
+        {
+          "query": "Alturas de La Lisa, La Lisa, La Habana, Cuba"
+        },
+        {
+          "query": "San Rafael, La Lisa, La Lisa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "2076",
+      "municipio": "La Lisa",
+      "ubicacion": "Alturas de La Lisa, Balcón Arimao, Santa Elena y Novoa.",
+      "puntos": [
+        {
+          "query": "Alturas de La Lisa, La Lisa, La Habana, Cuba"
+        },
+        {
+          "query": "Balcón Arimao, La Lisa, La Habana, Cuba"
+        },
+        {
+          "query": "Santa Elena, La Lisa, La Lisa, La Habana, Cuba"
+        },
+        {
+          "query": "Novoa, La Lisa, La Lisa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A1202",
+      "municipio": "La Lisa",
+      "ubicacion": "Reparto Sexto Congreso , calle 170-156-158 desde 39 hasta 51, calle 156 desde 51 hasta 71, calle 37 desde 170 a 144.",
+      "segmentos": [
+        {
+          "calle": "170",
+          "desde": "39",
+          "hasta": "51"
+        },
+        {
+          "calle": "156",
+          "desde": "39",
+          "hasta": "51"
+        },
+        {
+          "calle": "158",
+          "desde": "39",
+          "hasta": "51"
+        },
+        {
+          "calle": "156",
+          "desde": "51",
+          "hasta": "71"
+        },
+        {
+          "calle": "37",
+          "desde": "170",
+          "hasta": "144"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Sexto Congreso, La Lisa, La Lisa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A219",
+      "municipio": "La Lisa",
+      "ubicacion": "Reparto El Morado, Valle Grande, El Chico, Palermo, La Lisa y Pastrana.",
+      "puntos": [
+        {
+          "query": "El Morado, La Lisa, La Lisa, La Habana, Cuba"
+        },
+        {
+          "query": "Valle Grande, La Lisa, La Lisa, La Habana, Cuba"
+        },
+        {
+          "query": "El Chico, La Lisa, La Lisa, La Habana, Cuba"
+        },
+        {
+          "query": "Palermo, La Lisa, La Lisa, La Habana, Cuba"
+        },
+        {
+          "query": "Pastrana, La Lisa, La Lisa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "2073",
+      "municipio": "La Lisa",
+      "ubicacion": "Bello 26, San Agustín y Arroyo Arenas.",
+      "puntos": [
+        {
+          "query": "San Agustín, La Lisa, La Lisa, La Habana, Cuba"
+        },
+        {
+          "query": "Arroyo Arenas, La Lisa, La Lisa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A500",
+      "municipio": "Marianao",
+      "ubicacion": "Zamora, Callejón de la Brujería y Cubanacán.",
+      "puntos": [
+        {
+          "query": "Zamora, Marianao, Marianao, La Habana, Cuba"
+        },
+        {
+          "query": "Callejón de la Brujería, Marianao, Marianao, La Habana, Cuba"
+        },
+        {
+          "query": "Cubanacán, Marianao, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "D1280",
+      "municipio": "Marianao",
+      "ubicacion": "Coco Solo, Los Pocitos, Los Ángeles y El Palmar.",
+      "puntos": [
+        {
+          "query": "Coco Solo, Marianao, Marianao, La Habana, Cuba"
+        },
+        {
+          "query": "Los Pocitos, Marianao, Marianao, La Habana, Cuba"
+        },
+        {
+          "query": "Los Ángeles, Marianao, Marianao, La Habana, Cuba"
+        },
+        {
+          "query": "El Palmar, Marianao, Marianao, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "1856",
+      "municipio": "Marianao",
+      "ubicacion": "Coco Solo, Los Quemados, Los Ángeles y Las Yaguas.",
+      "puntos": [
+        {
+          "query": "Coco Solo, Marianao, Marianao, La Habana, Cuba"
+        },
+        {
+          "query": "Los Quemados, Marianao, Marianao, La Habana, Cuba"
+        },
+        {
+          "query": "Los Ángeles, Marianao, Marianao, La Habana, Cuba"
+        },
+        {
+          "query": "Las Yaguas, Marianao, Marianao, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A1430",
+      "municipio": "Marianao",
+      "ubicacion": "Cujae y Toledo.",
+      "puntos": [
+        {
+          "query": "Cujae, Marianao, Marianao, La Habana, Cuba"
+        },
+        {
+          "query": "Toledo, Marianao, Marianao, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "1246",
+      "municipio": "Marianao",
+      "ubicacion": "Alturas del Bosque y la Ceiba",
+      "puntos": [
+        {
+          "query": "Alturas del Bosque, Marianao, Marianao, La Habana, Cuba"
+        },
+        {
+          "query": "La Ceiba, Marianao, Marianao, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "1175",
+      "municipio": "Marianao",
+      "ubicacion": "Calle 37 desde 44 hasta 50; calle 33 desde 44 hasta 66; Reparto Santa Felicia de Marianao",
+      "segmentos": [
+        {
+          "calle": "37",
+          "desde": "44",
+          "hasta": "50"
+        },
+        {
+          "calle": "33",
+          "desde": "44",
+          "hasta": "66"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Santa Felicia, Marianao, Marianao, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "1851",
+      "municipio": "Marianao",
+      "ubicacion": "Zamora",
+      "puntos": [
+        {
+          "query": "Zamora, Marianao, Marianao, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "1249",
+      "municipio": "Marianao",
+      "ubicacion": "Reparto Puentes Grandes, Comunidad Husillo, Reparto Puentes Nuevos y Pogolotti",
+      "puntos": [
+        {
+          "query": "Puentes Grandes, Marianao, La Habana, Cuba"
+        },
+        {
+          "query": "El Husillo, Marianao, La Habana, Cuba"
+        },
+        {
+          "query": "Puentes Nuevos, Marianao, La Habana, Cuba"
+        },
+        {
+          "query": "Pogolotti, Marianao, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "R456",
+      "municipio": "Regla",
+      "ubicacion": "Alrededores de calles Adriano, González Rubiera, Agramonte, Calixto García, Maceo, La Piedra y Facciolo, Calixto García en Regla.",
+      "puntos": [
+        {
+          "query": "Calle Adriano, Regla, Regla, La Habana, Cuba"
+        },
+        {
+          "query": "Calle González Rubiera, Regla, Regla, La Habana, Cuba"
+        },
+        {
+          "query": "Calle Agramonte, Regla, Regla, La Habana, Cuba"
+        },
+        {
+          "query": "Calle Calixto García, Regla, Regla, La Habana, Cuba"
+        },
+        {
+          "query": "Calle Maceo, Regla, Regla, La Habana, Cuba"
+        },
+        {
+          "query": "Calle La Piedra, Regla, Regla, La Habana, Cuba"
+        },
+        {
+          "query": "Calle Facciolo, Regla, Regla, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "R461",
+      "municipio": "Regla",
+      "ubicacion": "Calle Maceo desde 10 de Octubre a La Piedra, calle 27 de Noviembre desde Maceo a Máximo Gómez",
+      "segmentos": [
+        {
+          "calle": "Maceo",
+          "desde": "Calzada de 10 de Octubre",
+          "hasta": "La Piedra"
+        },
+        {
+          "calle": "27 de Noviembre",
+          "desde": "Maceo",
+          "hasta": "Máximo Gómez"
+        }
+      ]
+    },
+    {
+      "id": "R464",
+      "municipio": "Regla",
+      "ubicacion": "Altura de Vía Blanca, Habana Nueva, La Cotorra, Villa1 y Modelo",
+      "puntos": [
+        {
+          "query": "Altura de Vía Blanca, Regla, Regla, La Habana, Cuba"
+        },
+        {
+          "query": "Habana Nueva, Regla, Regla, La Habana, Cuba"
+        },
+        {
+          "query": "La Cotorra, Regla, Regla, La Habana, Cuba"
+        },
+        {
+          "query": "Villa 1, Regla, Regla, La Habana, Cuba"
+        },
+        {
+          "query": "Modelo, Regla, Regla, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "R454",
+      "municipio": "Regla",
+      "ubicacion": "Mañana, Valero, Vía Blanca, Azotea y Vista Alegre",
+      "puntos": [
+        {
+          "query": "Mañana, Regla, Regla, La Habana, Cuba"
+        },
+        {
+          "query": "Valero, Regla, Regla, La Habana, Cuba"
+        },
+        {
+          "query": "Vía Blanca, Regla, Regla, La Habana, Cuba"
+        },
+        {
+          "query": "Azotea, Regla, Regla, La Habana, Cuba"
+        },
+        {
+          "query": "Vista Alegre, Regla, Regla, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A1425",
+      "municipio": "Regla",
+      "ubicacion": "Casa Blanca Bomeo",
+      "puntos": [
+        {
+          "query": "Casa Blanca, Regla, Regla, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "R451",
+      "municipio": "Regla",
+      "ubicacion": "Calles Perdomo y Simpatía en Regla",
+      "puntos": [
+        {
+          "query": "Calle Perdomo, Regla, Regla, La Habana, Cuba"
+        },
+        {
+          "query": "Calle Simpatía, Regla, Regla, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "R453",
+      "municipio": "Regla",
+      "ubicacion": "La Gloria, Ciruela, Union, Lídice y Colina Lenin.",
+      "puntos": [
+        {
+          "query": "La Gloria, Regla, Regla, La Habana, Cuba"
+        },
+        {
+          "query": "Ciruela, Regla, Regla, La Habana, Cuba"
+        },
+        {
+          "query": "Unión, Regla, Regla, La Habana, Cuba"
+        },
+        {
+          "query": "Lídice, Regla, Regla, La Habana, Cuba"
+        },
+        {
+          "query": "Colina Lenin, Regla, Regla, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A1203",
+      "municipio": "Playa",
+      "ubicacion": "Cuadrante de 198, 202, 11, 13, 15, 17, 19 (Siboney), 220 desde 1ra hasta 5ta, 238 desde 5ta hasta 5ta E (Jaimanitas)",
+      "segmentos": [
+        {
+          "calle": "220",
+          "desde": "1",
+          "hasta": "5"
+        },
+        {
+          "calle": "238",
+          "desde": "5",
+          "hasta": "5A"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Siboney, Playa, Playa, La Habana, Cuba"
+        },
+        {
+          "query": "Jaimanitas, Playa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "1243",
+      "municipio": "Playa",
+      "ubicacion": "Calle 40 desde 41 hasta 38; calle 47 de 28 a 41 (Kohly); calle 34 desde 33 hasta 41 (Nicanor del Campo); calle 26 desde 9na hasta 41; calle 24 desde 9na hasta 1ra; calle 3ra desde 24 hasta 46 (Miramar).",
+      "segmentos": [
+        {
+          "calle": "40",
+          "desde": "41",
+          "hasta": "38"
+        },
+        {
+          "calle": "47",
+          "desde": "28",
+          "hasta": "41"
+        },
+        {
+          "calle": "34",
+          "desde": "33",
+          "hasta": "41"
+        },
+        {
+          "calle": "26",
+          "desde": "9",
+          "hasta": "41"
+        },
+        {
+          "calle": "24",
+          "desde": "9",
+          "hasta": "1"
+        },
+        {
+          "calle": "3",
+          "desde": "24",
+          "hasta": "46"
+        }
+      ]
+    },
+    {
+      "id": "1160",
+      "municipio": "Playa",
+      "ubicacion": "Calle 49 desde 28 hasta 38 (Kohly); calle 47 desde 14 hasta 28; calle 6 desde 1ra hasta 14; calle 3ra desde 0 hasta 10 (Miramar)",
+      "segmentos": [
+        {
+          "calle": "49",
+          "desde": "28",
+          "hasta": "38"
+        },
+        {
+          "calle": "47",
+          "desde": "14",
+          "hasta": "28"
+        },
+        {
+          "calle": "6",
+          "desde": "1",
+          "hasta": "14"
+        },
+        {
+          "calle": "3",
+          "desde": "0",
+          "hasta": "10"
+        }
+      ]
+    },
+    {
+      "id": "1245",
+      "municipio": "Playa",
+      "ubicacion": "Calle 47 desde 26 hasta 38 (Reparto Kohly); cuadrante desde el Río Almendares hasta calle 20 desde Avenida 23 hasta Malecón, cuadrante desde calle 6 a 20 y desde Línea a Malecón",
+      "segmentos": [
+        {
+          "calle": "47",
+          "desde": "26",
+          "hasta": "38"
+        },
+        {
+          "calle": "20",
+          "desde": "23",
+          "hasta": "Malecón"
+        },
+        {
+          "calle": "6",
+          "desde": "Línea",
+          "hasta": "Malecón"
+        },
+        {
+          "calle": "20",
+          "desde": "Línea",
+          "hasta": "Malecón"
+        }
+      ]
+    },
+    {
+      "id": "A1223",
+      "municipio": "Playa",
+      "ubicacion": "Reparto Los Avioncitos, La Coronela, calle 230 desde 27 a 51 San Agustín",
+      "segmentos": [
+        {
+          "calle": "230",
+          "desde": "27",
+          "hasta": "51"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Los Avioncitos, Playa, Playa, La Habana, Cuba"
+        },
+        {
+          "query": "La Coronela, Playa, Playa, La Habana, Cuba"
+        },
+        {
+          "query": "San Agustín, Playa, Playa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "1242",
+      "municipio": "Playa",
+      "ubicacion": "Calle 54 desde 17 hasta 41; calle 25 desde 46 hasta 66 (Buenavista)",
+      "segmentos": [
+        {
+          "calle": "54",
+          "desde": "17",
+          "hasta": "41"
+        },
+        {
+          "calle": "25",
+          "desde": "46",
+          "hasta": "66"
+        }
+      ]
+    },
+    {
+      "id": "1170",
+      "municipio": "Playa",
+      "ubicacion": "Calle 42 desde 9na hasta 39A; calle 9na desde 42 hasta 76; calle 25 desde 26 hasta 42; calle 34 desde 17 hasta 41 (La Sierra)",
+      "segmentos": [
+        {
+          "calle": "42",
+          "desde": "9",
+          "hasta": "39A"
+        },
+        {
+          "calle": "9",
+          "desde": "42",
+          "hasta": "76"
+        },
+        {
+          "calle": "25",
+          "desde": "26",
+          "hasta": "42"
+        },
+        {
+          "calle": "34",
+          "desde": "17",
+          "hasta": "41"
+        }
+      ]
+    },
+    {
+      "id": "SF581",
+      "municipio": "Playa",
+      "ubicacion": "Parte de Santa Fe, Juan Manuel Márquez, Barlovento y Jaimanita",
+      "puntos": [
+        {
+          "query": "Santa Fe, Playa, Playa, La Habana, Cuba"
+        },
+        {
+          "query": "Juan Manuel Márquez, Playa, Playa, La Habana, Cuba"
+        },
+        {
+          "query": "Barlovento, Playa, Playa, La Habana, Cuba"
+        },
+        {
+          "query": "Jaimanitas, Playa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "SF583",
+      "municipio": "Playa",
+      "ubicacion": "Roble y Santa Fe",
+      "puntos": [
+        {
+          "query": "Roble, Playa, Playa, La Habana, Cuba"
+        },
+        {
+          "query": "Santa Fe, Playa, Playa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "L315",
+      "municipio": "Playa",
+      "ubicacion": "Reparto Buenavista",
+      "puntos": [
+        {
+          "query": "Buenavista, Playa, Playa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "1246",
+      "municipio": "Playa",
+      "ubicacion": "Alturas del Bosque y la Ceiba",
+      "puntos": [
+        {
+          "query": "Alturas del Bosque, Playa, Playa, La Habana, Cuba"
+        },
+        {
+          "query": "La Ceiba, Playa, Playa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "1241",
+      "municipio": "Playa",
+      "ubicacion": "Calle 33 desde 5ta hasta 44; calle 12 desde 1ra hasta 5ta Avenida; calle 1ra desde 0 hasta 38; calle 3ra desde 10 hasta 22 (Miramar)",
+      "segmentos": [
+        {
+          "calle": "33",
+          "desde": "5",
+          "hasta": "44"
+        },
+        {
+          "calle": "12",
+          "desde": "1",
+          "hasta": "5"
+        },
+        {
+          "calle": "1",
+          "desde": "0",
+          "hasta": "38"
+        },
+        {
+          "calle": "3",
+          "desde": "10",
+          "hasta": "22"
+        }
+      ]
+    },
+    {
+      "id": "1175",
+      "municipio": "Playa",
+      "ubicacion": "Calle 37 desde 44 hasta 50; calle 33 desde 44 hasta 66; Reparto Santa Felicia de Marianao",
+      "segmentos": [
+        {
+          "calle": "37",
+          "desde": "44",
+          "hasta": "50"
+        },
+        {
+          "calle": "33",
+          "desde": "44",
+          "hasta": "66"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Santa Felicia, Playa, Playa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A1219",
+      "municipio": "Playa",
+      "ubicacion": "Calle 25 desde 158 a 190, calle 190 de 194 hasta 5ta Reparto Nautico, calle 9na desde 120 hasta 130",
+      "segmentos": [
+        {
+          "calle": "25",
+          "desde": "158",
+          "hasta": "190"
+        },
+        {
+          "calle": "190",
+          "desde": "194",
+          "hasta": "5"
+        },
+        {
+          "calle": "9",
+          "desde": "120",
+          "hasta": "130"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Reparto Náutico, Playa, Playa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "L317_1244",
+      "municipio": "Playa",
+      "ubicacion": "Calle 70 desde 3ra hasta 11; calle 82-84 desde 3ra hasta 9na (Almendares).",
+      "segmentos": [
+        {
+          "calle": "70",
+          "desde": "3",
+          "hasta": "11"
+        },
+        {
+          "calle": "82",
+          "desde": "3",
+          "hasta": "9"
+        },
+        {
+          "calle": "84",
+          "desde": "3",
+          "hasta": "9"
+        }
+      ]
+    },
+    {
+      "id": "1247",
+      "municipio": "Playa",
+      "ubicacion": "Calle 28 desde 41 hasta 47; calle 41 desde 9na hasta 24 (Kohly); calle 10 desde 5ta hasta 9na (Kohly); calle 12 desde 12 hasta 24 (Miramar)",
+      "segmentos": [
+        {
+          "calle": "28",
+          "desde": "41",
+          "hasta": "47"
+        },
+        {
+          "calle": "41",
+          "desde": "9",
+          "hasta": "24"
+        },
+        {
+          "calle": "10",
+          "desde": "5",
+          "hasta": "9"
+        },
+        {
+          "calle": "12",
+          "desde": "12",
+          "hasta": "24"
+        }
+      ]
+    },
+    {
+      "id": "A1218",
+      "municipio": "Playa",
+      "ubicacion": "Atabey, Granma, calle 200 desde 202 hasta 184 en Siboney y Reparto Flores",
+      "segmentos": [
+        {
+          "calle": "200",
+          "desde": "202",
+          "hasta": "184"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Atabey, Playa, Playa, La Habana, Cuba"
+        },
+        {
+          "query": "Granma, Playa, Playa, La Habana, Cuba"
+        },
+        {
+          "query": "Siboney, Playa, Playa, La Habana, Cuba"
+        },
+        {
+          "query": "Reparto Flores, Playa, Playa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "1249",
+      "municipio": "Playa",
+      "ubicacion": "Reparto Puentes Grandes, Comunidad Husillo, Reparto Puentes Nuevos y Pogolotti",
+      "puntos": [
+        {
+          "query": "Puentes Grandes, Playa, La Habana, Cuba"
+        },
+        {
+          "query": "El Husillo, Playa, La Habana, Cuba"
+        },
+        {
+          "query": "Puentes Nuevos, Playa, La Habana, Cuba"
+        },
+        {
+          "query": "Pogolotti, Playa, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "CPP20",
+      "municipio": "Habana Vieja",
+      "ubicacion": "Terminal de Trenes, Ensenada de Ataré, Avenida La Pesquera desde Alambique Luz, Egido hasta Oficio y Desamparado hasta Acosta.",
+      "segmentos": [
+        {
+          "calle": "Desamparados",
+          "desde": "Egido",
+          "hasta": "Acosta"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Terminal de Trenes, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        },
+        {
+          "query": "Ensenada de Atarés, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "CPP9",
+      "municipio": "Habana Vieja",
+      "ubicacion": "Águila hasta Egido y Avenida La Pesquera hasta Monte.",
+      "puntos": [
+        {
+          "query": "Calle Águila, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        },
+        {
+          "query": "Avenida del Puerto y Monte, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "OP304",
+      "municipio": "Habana Vieja",
+      "ubicacion": "Luz y Compostela, Egido entre Conde y Merced, Gloria y Egido, Picota entre Jesús María y Merced, Acosta entre Picota y Compostela, Compostela entre Paula y Merced, Paula entre Compostela y Picota, Picota entre Conde y Merced, Compostela y Desamparado, Luz y Curazao, Egido y Luz, Fábrica de Cerveza, Muralla y Villegas, Sol y Villegas, Compostela entre Sol y Luz, Habana entre Luz y Sol, Habana entre Sol y Muralla, Habana y Teniente Rey, Teniente Rey y Cuba, Luz y Damas, San Ignacio entre Obrapía y Obispo, O'Reilly entre San Ignacio y Mercaderes, O'Reilly entre Mercaderes y Tacón, Tacón entre O'Reilly y Empedrado, Mercaderes entre Empredado y Avenida del Puerto, San Ignacio entre Tejadillo y Chacón, Cuba entre Cuarteles y Peña Pobre, Cuba entre Tejadillo y Chacón, Empedrado entre Cuba y Chacón, Tejadillo entre Cuba y Aguiar, O'Reilly entre Cuba y San Ignacio, Cuba esquina Obispo, Empedrado entre Mercaderes y Tacón, Lamparilla entre San Ignacio y Mercaderes, San Ignacio entre Armadura y Teniente Rey, San Ignacio entre Armadura y Lamparilla, Amargura esquina Mercaderes, Mercaderes entre Amargura y Teniente Rey, Oficios entre Amargura y Teniente Rey, Amargura entre Mercaderes y Oficios, Mercaderes entre Muralla y Teniente Rey, Obispo entre Baratillo y San Pedro, Justiz entre Oficios y Baratillo, Baratillo entre Justiz y Obrapía, Lamparilla entre Mercaderes y Oficios, Baratillo entre Lamparilla y Obrapía, Baratillo entre Carpinetti y Obrapía",
+      "segmentos": [
+        {
+          "calle": "Egido",
+          "desde": "Conde",
+          "hasta": "Merced"
+        },
+        {
+          "calle": "Picota",
+          "desde": "Jesús María",
+          "hasta": "Merced"
+        },
+        {
+          "calle": "Acosta",
+          "desde": "Picota",
+          "hasta": "Compostela"
+        },
+        {
+          "calle": "Compostela",
+          "desde": "Paula",
+          "hasta": "Merced"
+        },
+        {
+          "calle": "Paula",
+          "desde": "Compostela",
+          "hasta": "Picota"
+        },
+        {
+          "calle": "Picota",
+          "desde": "Conde",
+          "hasta": "Merced"
+        },
+        {
+          "calle": "Compostela",
+          "desde": "Sol",
+          "hasta": "Luz"
+        },
+        {
+          "calle": "Habana",
+          "desde": "Luz",
+          "hasta": "Sol"
+        },
+        {
+          "calle": "Habana",
+          "desde": "Sol",
+          "hasta": "Muralla"
+        },
+        {
+          "calle": "San Ignacio",
+          "desde": "Obrapía",
+          "hasta": "Obispo"
+        },
+        {
+          "calle": "O'Reilly",
+          "desde": "San Ignacio",
+          "hasta": "Mercaderes"
+        },
+        {
+          "calle": "O'Reilly",
+          "desde": "Mercaderes",
+          "hasta": "Tacón"
+        },
+        {
+          "calle": "Tacón",
+          "desde": "O'Reilly",
+          "hasta": "Empedrado"
+        },
+        {
+          "calle": "Mercaderes",
+          "desde": "Empedrado",
+          "hasta": "Avenida del Puerto"
+        },
+        {
+          "calle": "San Ignacio",
+          "desde": "Tejadillo",
+          "hasta": "Chacón"
+        },
+        {
+          "calle": "San Ignacio",
+          "desde": "Empedrado",
+          "hasta": "Chacón"
+        },
+        {
+          "calle": "Cuba",
+          "desde": "Cuarteles",
+          "hasta": "Peña Pobre"
+        },
+        {
+          "calle": "Cuba",
+          "desde": "Tejadillo",
+          "hasta": "Chacón"
+        },
+        {
+          "calle": "Empedrado",
+          "desde": "Cuba",
+          "hasta": "Chacón"
+        },
+        {
+          "calle": "Tejadillo",
+          "desde": "Cuba",
+          "hasta": "Aguiar"
+        },
+        {
+          "calle": "O'Reilly",
+          "desde": "Cuba",
+          "hasta": "San Ignacio"
+        },
+        {
+          "calle": "Empedrado",
+          "desde": "Mercaderes",
+          "hasta": "Tacón"
+        },
+        {
+          "calle": "Lamparilla",
+          "desde": "San Ignacio",
+          "hasta": "Mercaderes"
+        },
+        {
+          "calle": "San Ignacio",
+          "desde": "Amargura",
+          "hasta": "Teniente Rey"
+        },
+        {
+          "calle": "San Ignacio",
+          "desde": "Amargura",
+          "hasta": "Lamparilla"
+        },
+        {
+          "calle": "Mercaderes",
+          "desde": "Amargura",
+          "hasta": "Teniente Rey"
+        },
+        {
+          "calle": "Oficios",
+          "desde": "Amargura",
+          "hasta": "Teniente Rey"
+        },
+        {
+          "calle": "Amargura",
+          "desde": "Mercaderes",
+          "hasta": "Oficios"
+        },
+        {
+          "calle": "Mercaderes",
+          "desde": "Muralla",
+          "hasta": "Teniente Rey"
+        },
+        {
+          "calle": "Obispo",
+          "desde": "Baratillo",
+          "hasta": "San Pedro"
+        },
+        {
+          "calle": "Justiz",
+          "desde": "Oficios",
+          "hasta": "Baratillo"
+        },
+        {
+          "calle": "Baratillo",
+          "desde": "Justiz",
+          "hasta": "Obrapía"
+        },
+        {
+          "calle": "Lamparilla",
+          "desde": "Mercaderes",
+          "hasta": "Oficios"
+        },
+        {
+          "calle": "Baratillo",
+          "desde": "Lamparilla",
+          "hasta": "Obrapía"
+        },
+        {
+          "calle": "Baratillo",
+          "desde": "Carpinetti",
+          "hasta": "Obrapía"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Luz y Compostela, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        },
+        {
+          "query": "Gloria y Egido, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        },
+        {
+          "query": "Compostela y Desamparados, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        },
+        {
+          "query": "Luz y Curazao, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        },
+        {
+          "query": "Egido y Luz, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        },
+        {
+          "query": "Fábrica de Cerveza, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        },
+        {
+          "query": "Muralla y Villegas, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        },
+        {
+          "query": "Sol y Villegas, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        },
+        {
+          "query": "Habana y Teniente Rey, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        },
+        {
+          "query": "Teniente Rey y Cuba, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        },
+        {
+          "query": "Luz y Damas, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        },
+        {
+          "query": "Cuba y Obispo, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        },
+        {
+          "query": "Amargura y Mercaderes, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "OP411",
+      "municipio": "Habana Vieja",
+      "ubicacion": "Fábrica de Cerveza, Cuba entre Sol y Muralla",
+      "segmentos": [
+        {
+          "calle": "Cuba",
+          "desde": "Sol",
+          "hasta": "Muralla"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Fábrica de Cerveza, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "OP320",
+      "municipio": "Habana Vieja",
+      "ubicacion": "Luz entre Cuba y San Ignacio, Luz y Oficios, Sol entre San Pedro y Oficios, Muralla y San Pedro, Oficios entre Teniente Rey y Muralla, San Pedro y Avenida del Puerto, San Pedro y Sol, San Pedro y Muralla, San Pedro y Churruca, San Pedro y Luz, Inquisidor y Muralla, San Ignacio y Santa Clara, Luz y Oficios, San Pedro y Churruca, Acosta entre Egido y Curazao",
+      "segmentos": [
+        {
+          "calle": "Luz",
+          "desde": "Cuba",
+          "hasta": "San Ignacio"
+        },
+        {
+          "calle": "Sol",
+          "desde": "San Pedro",
+          "hasta": "Oficios"
+        },
+        {
+          "calle": "Oficios",
+          "desde": "Teniente Rey",
+          "hasta": "Muralla"
+        },
+        {
+          "calle": "Acosta",
+          "desde": "Egido",
+          "hasta": "Curazao"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Luz y Oficios, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        },
+        {
+          "query": "Muralla y San Pedro, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        },
+        {
+          "query": "San Pedro y Avenida del Puerto, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        },
+        {
+          "query": "San Pedro y Sol, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        },
+        {
+          "query": "San Pedro y Muralla, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        },
+        {
+          "query": "San Pedro y Churruca, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        },
+        {
+          "query": "San Pedro y Luz, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        },
+        {
+          "query": "Inquisidor y Muralla, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        },
+        {
+          "query": "San Ignacio y Santa Clara, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "OP424",
+      "municipio": "Habana Vieja",
+      "ubicacion": "Compostela entre Teniente Rey y Muralla, Muralla entre Compostela y Aguacate, Villegas entre Teniente Rey y Muralla, Muralla entre Egido y Bernaza, Bernaza entre Teniente Rey y Muralla, Cristo entre Teniente Rey y Muralla, Teniente Rey entre Villegas y Aguacate, Amargura entre Villegas y Aguacate, Amargura entre Compostela y Habana, Amargura entre Aguiar y Cuba",
+      "segmentos": [
+        {
+          "calle": "Compostela",
+          "desde": "Teniente Rey",
+          "hasta": "Muralla"
+        },
+        {
+          "calle": "Muralla",
+          "desde": "Compostela",
+          "hasta": "Aguacate"
+        },
+        {
+          "calle": "Villegas",
+          "desde": "Teniente Rey",
+          "hasta": "Muralla"
+        },
+        {
+          "calle": "Muralla",
+          "desde": "Egido",
+          "hasta": "Bernaza"
+        },
+        {
+          "calle": "Bernaza",
+          "desde": "Teniente Rey",
+          "hasta": "Muralla"
+        },
+        {
+          "calle": "Cristo",
+          "desde": "Teniente Rey",
+          "hasta": "Muralla"
+        },
+        {
+          "calle": "Teniente Rey",
+          "desde": "Villegas",
+          "hasta": "Aguacate"
+        },
+        {
+          "calle": "Amargura",
+          "desde": "Villegas",
+          "hasta": "Aguacate"
+        },
+        {
+          "calle": "Amargura",
+          "desde": "Compostela",
+          "hasta": "Habana"
+        },
+        {
+          "calle": "Amargura",
+          "desde": "Aguiar",
+          "hasta": "Cuba"
+        }
+      ]
+    },
+    {
+      "id": "OP318",
+      "municipio": "Habana Vieja",
+      "ubicacion": "Compostela entre Obispo y Obrapía, O'Reilly entre Compostela y Aguacate, O'Reilly entre Villegas y Aguacate, O'Reilly entre Bernaza y Villegas, O'Reilly y Bernaza, Obrapía entre Bernaza y Villegas, Lamparilla entre Bernaza y Monserrate, Villegas entre Obrapía y Lamparilla, Obrapía entre Aguacate y Villegas, Compostela entre Lamparilla y Obrapía, Obrapía entre Habana y Compostela, Obispo entre Cuba y Aguiar, Obrapía entre Habana y Aguiar, Aguiar entre Lamparilla y Obrapía, Aguiar entre Obrapía y Obispo, Teniente Rey entre Cuba y Aguiar, Aguiar entre Obispo y O'Reilly, Compostela entre O'Reilly y Obispo",
+      "segmentos": [
+        {
+          "calle": "Compostela",
+          "desde": "Obispo",
+          "hasta": "Obrapía"
+        },
+        {
+          "calle": "O'Reilly",
+          "desde": "Compostela",
+          "hasta": "Aguacate"
+        },
+        {
+          "calle": "O'Reilly",
+          "desde": "Villegas",
+          "hasta": "Aguacate"
+        },
+        {
+          "calle": "O'Reilly",
+          "desde": "Bernaza",
+          "hasta": "Villegas"
+        },
+        {
+          "calle": "Obrapía",
+          "desde": "Bernaza",
+          "hasta": "Villegas"
+        },
+        {
+          "calle": "Lamparilla",
+          "desde": "Bernaza",
+          "hasta": "Monserrate"
+        },
+        {
+          "calle": "Villegas",
+          "desde": "Obrapía",
+          "hasta": "Lamparilla"
+        },
+        {
+          "calle": "Obrapía",
+          "desde": "Aguacate",
+          "hasta": "Villegas"
+        },
+        {
+          "calle": "Compostela",
+          "desde": "Lamparilla",
+          "hasta": "Obrapía"
+        },
+        {
+          "calle": "Obrapía",
+          "desde": "Habana",
+          "hasta": "Compostela"
+        },
+        {
+          "calle": "Obispo",
+          "desde": "Cuba",
+          "hasta": "Aguiar"
+        },
+        {
+          "calle": "Obrapía",
+          "desde": "Habana",
+          "hasta": "Aguiar"
+        },
+        {
+          "calle": "Aguiar",
+          "desde": "Lamparilla",
+          "hasta": "Obrapía"
+        },
+        {
+          "calle": "Aguiar",
+          "desde": "Obrapía",
+          "hasta": "Obispo"
+        },
+        {
+          "calle": "Teniente Rey",
+          "desde": "Cuba",
+          "hasta": "Aguiar"
+        },
+        {
+          "calle": "Aguiar",
+          "desde": "Obispo",
+          "hasta": "O'Reilly"
+        },
+        {
+          "calle": "Compostela",
+          "desde": "O'Reilly",
+          "hasta": "Obispo"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "O'Reilly y Bernaza, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "OP410",
+      "municipio": "Habana Vieja",
+      "ubicacion": "Empredado entre Villegas y Aguacate, Tejadillo entre Aguacate Compostela, Peña Pobre entre Avenida de Las Misiones y Habana, Avenida de La Misiones entre Cuartel y Chacón, Avenida de Las Misiones entre Peña Pobre y Habana, Aguiar entre Avenida de Las Misiones y Peña Pobre, Aguiar entre Peña Pobre y Cuarteles, Cuarteles entre Habana y Aguiar, Aguiar entre Cuarteles y Chacón, Empedrado entre Habana y Aguiar, Habana entre San Juan de Dios y O'Reilly, Aguacate entre San Juan de Dios y O'Reilly, San Juan de Dios entre Villegas y Monserrate, Monserrate entre San Juan de Dios y O'Reilly",
+      "segmentos": [
+        {
+          "calle": "Empedrado",
+          "desde": "Villegas",
+          "hasta": "Aguacate"
+        },
+        {
+          "calle": "Tejadillo",
+          "desde": "Aguacate",
+          "hasta": "Compostela"
+        },
+        {
+          "calle": "Peña Pobre",
+          "desde": "Avenida de las Misiones",
+          "hasta": "Habana"
+        },
+        {
+          "calle": "Avenida de las Misiones",
+          "desde": "Cuartel",
+          "hasta": "Chacón"
+        },
+        {
+          "calle": "Avenida de las Misiones",
+          "desde": "Peña Pobre",
+          "hasta": "Habana"
+        },
+        {
+          "calle": "Aguiar",
+          "desde": "Avenida de las Misiones",
+          "hasta": "Peña Pobre"
+        },
+        {
+          "calle": "Aguiar",
+          "desde": "Peña Pobre",
+          "hasta": "Cuarteles"
+        },
+        {
+          "calle": "Cuarteles",
+          "desde": "Habana",
+          "hasta": "Aguiar"
+        },
+        {
+          "calle": "Aguiar",
+          "desde": "Cuarteles",
+          "hasta": "Chacón"
+        },
+        {
+          "calle": "Empedrado",
+          "desde": "Habana",
+          "hasta": "Aguiar"
+        },
+        {
+          "calle": "Habana",
+          "desde": "San Juan de Dios",
+          "hasta": "O'Reilly"
+        },
+        {
+          "calle": "Aguacate",
+          "desde": "San Juan de Dios",
+          "hasta": "O'Reilly"
+        },
+        {
+          "calle": "San Juan de Dios",
+          "desde": "Villegas",
+          "hasta": "Monserrate"
+        },
+        {
+          "calle": "Monserrate",
+          "desde": "San Juan de Dios",
+          "hasta": "O'Reilly"
+        }
+      ]
+    },
+    {
+      "id": "OP306",
+      "municipio": "Habana Vieja",
+      "ubicacion": "Neptuno entre Zulueta y Monserrate, San Jose entre Consulado y Prado, San Rafael entre Prado y Consulado, San Miguel entre Prado y Consulado, San Rafael entre Zulueta y Egido, Teniente Rey y Prado, Zulueta entre Teniente Rey y Dragones, Prado entre Teniente Rey y Dragones, Dragones entre Prado y Zulueta, Egido entre Sol y Muralla, Corrales entre Zulueta y Cárdenas, Aponte entre Monte y Corrales, Suárez entre Monte y Corrales, Monte entre Águila y Amistad, Monte entre Egido y Zulueta",
+      "segmentos": [
+        {
+          "calle": "Neptuno",
+          "desde": "Zulueta",
+          "hasta": "Monserrate"
+        },
+        {
+          "calle": "San José",
+          "desde": "Consulado",
+          "hasta": "Prado"
+        },
+        {
+          "calle": "San Rafael",
+          "desde": "Prado",
+          "hasta": "Consulado"
+        },
+        {
+          "calle": "San Miguel",
+          "desde": "Prado",
+          "hasta": "Consulado"
+        },
+        {
+          "calle": "San Rafael",
+          "desde": "Zulueta",
+          "hasta": "Egido"
+        },
+        {
+          "calle": "Zulueta",
+          "desde": "Teniente Rey",
+          "hasta": "Dragones"
+        },
+        {
+          "calle": "Prado",
+          "desde": "Teniente Rey",
+          "hasta": "Dragones"
+        },
+        {
+          "calle": "Dragones",
+          "desde": "Prado",
+          "hasta": "Zulueta"
+        },
+        {
+          "calle": "Egido",
+          "desde": "Sol",
+          "hasta": "Muralla"
+        },
+        {
+          "calle": "Corrales",
+          "desde": "Zulueta",
+          "hasta": "Cárdenas"
+        },
+        {
+          "calle": "Aponte",
+          "desde": "Monte",
+          "hasta": "Corrales"
+        },
+        {
+          "calle": "Suárez",
+          "desde": "Monte",
+          "hasta": "Corrales"
+        },
+        {
+          "calle": "Monte",
+          "desde": "Águila",
+          "hasta": "Amistad"
+        },
+        {
+          "calle": "Monte",
+          "desde": "Egido",
+          "hasta": "Zulueta"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Teniente Rey y Prado, Habana Vieja, Habana Vieja, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "OP406",
+      "municipio": "Habana Vieja",
+      "ubicacion": "Genio entre Prado y Morro, Morro entre Colón y Refugio, Morro entre Colón y Trocadero, Trocadero entre Zulueta y Prado, Ánimas entre Prado y Zulueta, Zulueta entre Virtudes y Neptuno, Neptuno entre Zulueta y Avenida de Las Misiones, Ánimas entre Zulueta y Avenida de Las Misiones, Colón entre Morro y Zulueta, Genios entre Agramonte y Morro, Genios entre Agramonte y Zulueta, Cárcel entre Morro y Prado",
+      "segmentos": [
+        {
+          "calle": "Genio",
+          "desde": "Prado",
+          "hasta": "Morro"
+        },
+        {
+          "calle": "Morro",
+          "desde": "Colón",
+          "hasta": "Refugio"
+        },
+        {
+          "calle": "Morro",
+          "desde": "Colón",
+          "hasta": "Trocadero"
+        },
+        {
+          "calle": "Trocadero",
+          "desde": "Zulueta",
+          "hasta": "Prado"
+        },
+        {
+          "calle": "Ánimas",
+          "desde": "Prado",
+          "hasta": "Zulueta"
+        },
+        {
+          "calle": "Zulueta",
+          "desde": "Virtudes",
+          "hasta": "Neptuno"
+        },
+        {
+          "calle": "Neptuno",
+          "desde": "Zulueta",
+          "hasta": "Avenida de las Misiones"
+        },
+        {
+          "calle": "Ánimas",
+          "desde": "Zulueta",
+          "hasta": "Avenida de las Misiones"
+        },
+        {
+          "calle": "Colón",
+          "desde": "Morro",
+          "hasta": "Zulueta"
+        },
+        {
+          "calle": "Genios",
+          "desde": "Agramonte",
+          "hasta": "Morro"
+        },
+        {
+          "calle": "Genios",
+          "desde": "Agramonte",
+          "hasta": "Zulueta"
+        },
+        {
+          "calle": "Cárcel",
+          "desde": "Morro",
+          "hasta": "Prado"
+        }
+      ]
+    },
+    {
+      "id": "OP329",
+      "municipio": "Habana Vieja",
+      "ubicacion": "L desde Línea hasta Calzada",
+      "segmentos": [
+        {
+          "calle": "L",
+          "desde": "Línea",
+          "hasta": "Calzada"
+        }
+      ]
+    },
+    {
+      "id": "OP404",
+      "municipio": "Habana Vieja",
+      "ubicacion": "Águila desde Dragones hasta Malecón, Virtudes desde Galeano hasta Prado, Ánimas desde Galeano hasta Prado, Trocadero desde Galeano hasta Prado, San Lázaro desde Galeano hasta Prado, Malecón desde Galeano hasta Prado, Industria desde Virtudes hasta Malecón, Consulado desde Virtudes hasta Malecón",
+      "segmentos": [
+        {
+          "calle": "Águila",
+          "desde": "Dragones",
+          "hasta": "Malecón"
+        },
+        {
+          "calle": "Virtudes",
+          "desde": "Galiano",
+          "hasta": "Prado"
+        },
+        {
+          "calle": "Ánimas",
+          "desde": "Galiano",
+          "hasta": "Prado"
+        },
+        {
+          "calle": "Trocadero",
+          "desde": "Galiano",
+          "hasta": "Prado"
+        },
+        {
+          "calle": "San Lázaro",
+          "desde": "Galiano",
+          "hasta": "Prado"
+        },
+        {
+          "calle": "Malecón",
+          "desde": "Galiano",
+          "hasta": "Prado"
+        },
+        {
+          "calle": "Industria",
+          "desde": "Virtudes",
+          "hasta": "Malecón"
+        },
+        {
+          "calle": "Consulado",
+          "desde": "Virtudes",
+          "hasta": "Malecón"
+        }
+      ]
+    },
+    {
+      "id": "H342",
+      "municipio": "Cerro",
+      "ubicacion": "Calle Cristina desde 4 Caminos a san Joaquín, Ataré",
+      "segmentos": [
+        {
+          "calle": "Cristina",
+          "desde": "4 Caminos",
+          "hasta": "San Joaquín"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Atarés, Cerro, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "H341",
+      "municipio": "Cerro",
+      "ubicacion": "Cuadrante desde Vía Blanca hasta Correa y Czda. Diez de Octubre a Flores en Santo Suárez",
+      "segmentos": [
+        {
+          "calle": "Vía Blanca",
+          "desde": "Calzada de 10 de Octubre",
+          "hasta": "Flores"
+        },
+        {
+          "calle": "Correa",
+          "desde": "Calzada de 10 de Octubre",
+          "hasta": "Flores"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Santos Suárez, Cerro, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "C7",
+      "municipio": "Cerro",
+      "ubicacion": "Colón desde Whaschinton hasta Vía Blanca, Vía Blanca Rotonda hasta Primelle, Primelle desde Vía Blanca hasta Santa Catalina, Primelle hasta Calzada de Palatino, Santa Catalina hasta Fomento, Ocujes desde Santa Catalina hasta Ave de La Ceiba, Calzada de Palatino hasta Fomento, Palmar hasta Santa Lugarda, Bella Vista hasta Recreo",
+      "segmentos": [
+        {
+          "calle": "Colón",
+          "desde": "Washington",
+          "hasta": "Vía Blanca"
+        },
+        {
+          "calle": "Vía Blanca",
+          "desde": "Rotonda",
+          "hasta": "Primelles"
+        },
+        {
+          "calle": "Primelles",
+          "desde": "Vía Blanca",
+          "hasta": "Santa Catalina"
+        },
+        {
+          "calle": "Primelles",
+          "desde": "Santa Catalina",
+          "hasta": "Calzada de Palatino"
+        },
+        {
+          "calle": "Santa Catalina",
+          "desde": "Primelles",
+          "hasta": "Fomento"
+        },
+        {
+          "calle": "Ocujes",
+          "desde": "Santa Catalina",
+          "hasta": "Avenida de La Ceiba"
+        },
+        {
+          "calle": "Calzada de Palatino",
+          "desde": "Santa Catalina",
+          "hasta": "Fomento"
+        },
+        {
+          "calle": "Palmar",
+          "desde": "Calzada de Palatino",
+          "hasta": "Santa Lugarda"
+        },
+        {
+          "calle": "Bella Vista",
+          "desde": "Palmar",
+          "hasta": "Recreo"
+        }
+      ]
+    },
+    {
+      "id": "C10",
+      "municipio": "Cerro",
+      "ubicacion": "Vía Blanca de Infanta a Chaples, Chaples desde Vía Blanca a Palmar, Palmar de Palatino a Suzarte, Suzarte de Palmar a Santa Catalina, Lazada desde San Juan Bosco hasta 3ra, Vento Oeste hasta 3ra, Lazada hasta Avenida del Este, Avenida del Este desde Vento Oeste hasta Avenida de La Ceiba, Avenida del Norte desde Avenida del Este hasta Lazada Norte 1, Primelles desde Avenida Norte hasta calle Interior, Avenida Este hasta Aranguren, Blanquita hasta 11",
+      "segmentos": [
+        {
+          "calle": "Vía Blanca",
+          "desde": "Infanta",
+          "hasta": "Chaples"
+        },
+        {
+          "calle": "Chaples",
+          "desde": "Vía Blanca",
+          "hasta": "Palmar"
+        },
+        {
+          "calle": "Palmar",
+          "desde": "Calzada de Palatino",
+          "hasta": "Suzarte"
+        },
+        {
+          "calle": "Suzarte",
+          "desde": "Palmar",
+          "hasta": "Santa Catalina"
+        },
+        {
+          "calle": "Lazada",
+          "desde": "San Juan Bosco",
+          "hasta": "3ra"
+        },
+        {
+          "calle": "Vento Oeste",
+          "desde": "Lazada",
+          "hasta": "3ra"
+        },
+        {
+          "calle": "Lazada",
+          "desde": "3ra",
+          "hasta": "Avenida del Este"
+        },
+        {
+          "calle": "Avenida del Este",
+          "desde": "Vento Oeste",
+          "hasta": "Avenida de La Ceiba"
+        },
+        {
+          "calle": "Avenida del Norte",
+          "desde": "Avenida del Este",
+          "hasta": "Lazada"
+        },
+        {
+          "calle": "Primelles",
+          "desde": "Avenida del Norte",
+          "hasta": "Interior"
+        },
+        {
+          "calle": "Avenida del Este",
+          "desde": "Interior",
+          "hasta": "Aranguren"
+        },
+        {
+          "calle": "Blanquita",
+          "desde": "Aranguren",
+          "hasta": "11"
+        }
+      ]
+    },
+    {
+      "id": "C13",
+      "municipio": "Cerro",
+      "ubicacion": "Vía Blanca desde 1ra hasta Primelle, Primelle desde Vía Blanca hasta Santa Catalina, Santa Catalina desde Primelle hasta Independencia, Independencia desde Rotonda hasta Palmar, Independencia hasta Rambla, Colón hasta 14",
+      "segmentos": [
+        {
+          "calle": "Vía Blanca",
+          "desde": "1ra",
+          "hasta": "Primelles"
+        },
+        {
+          "calle": "Primelles",
+          "desde": "Vía Blanca",
+          "hasta": "Santa Catalina"
+        },
+        {
+          "calle": "Santa Catalina",
+          "desde": "Primelles",
+          "hasta": "Independencia"
+        },
+        {
+          "calle": "Independencia",
+          "desde": "Rotonda",
+          "hasta": "Palmar"
+        },
+        {
+          "calle": "Independencia",
+          "desde": "Palmar",
+          "hasta": "Rambla"
+        },
+        {
+          "calle": "Colón",
+          "desde": "Rambla",
+          "hasta": "14"
+        }
+      ]
+    },
+    {
+      "id": "2202",
+      "municipio": "Cerro",
+      "ubicacion": "Callejón de Los Perros desde Línea del Ferrocarril hasta Camagüey Camagüey , desde 13 hasta Independencia, Canal hasta 13 y Camagüey , Independencia desde Camagüey hasta A.",
+      "segmentos": [
+        {
+          "calle": "Callejón de Los Perros",
+          "desde": "Línea de Ferrocarril",
+          "hasta": "Camagüey"
+        },
+        {
+          "calle": "Camagüey",
+          "desde": "13",
+          "hasta": "Independencia"
+        },
+        {
+          "calle": "Canal",
+          "desde": "13",
+          "hasta": "Camagüey"
+        },
+        {
+          "calle": "Independencia",
+          "desde": "Camagüey",
+          "hasta": "A"
+        }
+      ]
+    },
+    {
+      "id": "P327",
+      "municipio": "Cerro",
+      "ubicacion": "Infanta, Ayestarán, Zequeira, Desague, Pozos Dulces",
+      "puntos": [
+        {
+          "query": "Calle Infanta, Cerro, Cerro, La Habana, Cuba"
+        },
+        {
+          "query": "Calle Ayestarán, Cerro, Cerro, La Habana, Cuba"
+        },
+        {
+          "query": "Calle Zequeira, Cerro, Cerro, La Habana, Cuba"
+        },
+        {
+          "query": "Calle Desagüe, Cerro, Cerro, La Habana, Cuba"
+        },
+        {
+          "query": "Calle Pozos Dulces, Cerro, Cerro, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "A815",
+      "municipio": "Cerro",
+      "ubicacion": "Calzada de Vento desde Linea del Ferrocarril hasta Camagüey, Calles desde Acosta hasta Carmen y desde Figueroa hasta Párraga, calles desde Úrsula hasta Carmen y desde Gelabert hasta Goicuria en Sevillano.",
+      "segmentos": [
+        {
+          "calle": "Calzada de Vento",
+          "desde": "Línea de Ferrocarril",
+          "hasta": "Camagüey"
+        },
+        {
+          "calle": "Acosta",
+          "desde": "Figueroa",
+          "hasta": "Párraga"
+        },
+        {
+          "calle": "Carmen",
+          "desde": "Figueroa",
+          "hasta": "Párraga"
+        },
+        {
+          "calle": "Úrsula",
+          "desde": "Gelabert",
+          "hasta": "Goicuría"
+        },
+        {
+          "calle": "Carmen",
+          "desde": "Gelabert",
+          "hasta": "Goicuría"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Sevillano, Cerro, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "2210",
+      "municipio": "Cerro",
+      "ubicacion": "desde Callejój de Los Perros hasta Calzada de Vento, Callejón de Los Perros desde Linea del Ferrocarril hasta Camaguey,Calzada de Vento desde Camagüey hasta Lazada de Vento, Calzada de Vento hasta Boss, Vista Alegre hasta San Mariano , Víbora, Santos Suárez",
+      "segmentos": [
+        {
+          "calle": "Callejón de Los Perros",
+          "desde": "Línea de Ferrocarril",
+          "hasta": "Camagüey"
+        },
+        {
+          "calle": "Calzada de Vento",
+          "desde": "Camagüey",
+          "hasta": "Boss"
+        },
+        {
+          "calle": "Vista Alegre",
+          "desde": "Calzada de Vento",
+          "hasta": "San Mariano"
+        }
+      ],
+      "puntos": [
+        {
+          "query": "Víbora, Cerro, La Habana, Cuba"
+        },
+        {
+          "query": "Santos Suárez, Cerro, La Habana, Cuba"
+        }
+      ]
+    },
+    {
+      "id": "C14",
+      "municipio": "Cerro",
+      "ubicacion": "Washington desde Infanta hasta Churruca, Churruca desde Vía Blanca hasta Calzada del Cerro, Márquez desde Calzada del Cerro hasta Ayestarán, Ermita desde Ayestarán hasta San Pedro, Ermita hasta Santa Catalina, Concepción hasta Piñeras, Vista Hermosa desde Pedro Pérez hasta Piñeira",
+      "segmentos": [
+        {
+          "calle": "Washington",
+          "desde": "Infanta",
+          "hasta": "Churruca"
+        },
+        {
+          "calle": "Churruca",
+          "desde": "Vía Blanca",
+          "hasta": "Calzada del Cerro"
+        },
+        {
+          "calle": "Márquez",
+          "desde": "Calzada del Cerro",
+          "hasta": "Ayestarán"
+        },
+        {
+          "calle": "Ermita",
+          "desde": "Ayestarán",
+          "hasta": "San Pedro"
+        },
+        {
+          "calle": "Ermita",
+          "desde": "San Pedro",
+          "hasta": "Santa Catalina"
+        },
+        {
+          "calle": "Concepción",
+          "desde": "Santa Catalina",
+          "hasta": "Piñera"
+        },
+        {
+          "calle": "Vista Hermosa",
+          "desde": "Pedro Pérez",
+          "hasta": "Piñera"
+        }
+      ]
+    },
+    {
+      "id": "C16",
+      "municipio": "Cerro",
+      "ubicacion": "Vía Blanca desde Infanta hasta Prensa, Prensa desde Vía Blanca hasta Calzada del Cerro, Ferrer desde Calzada del Cerro hasta Conill.",
+      "segmentos": [
+        {
+          "calle": "Vía Blanca",
+          "desde": "Infanta",
+          "hasta": "Prensa"
+        },
+        {
+          "calle": "Prensa",
+          "desde": "Vía Blanca",
+          "hasta": "Calzada del Cerro"
+        },
+        {
+          "calle": "Ferrer",
+          "desde": "Calzada del Cerro",
+          "hasta": "Conill"
+        }
+      ]
+    }
+  ]
+}

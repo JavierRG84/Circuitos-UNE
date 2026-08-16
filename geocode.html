@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Geocodificar circuitos — herramienta de preparación</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<style>
+  .geo-layout { display:flex; height: calc(100vh - 64px); }
+  .geo-panel { width: 420px; min-width: 420px; background:#fff; border-right:1px solid var(--line); display:flex; flex-direction:column; }
+  .geo-controls { padding:14px; border-bottom:1px solid var(--line); display:flex; gap:8px; flex-wrap:wrap; }
+  .geo-controls button {
+    background: var(--orange); color:#fff; border:none; padding:9px 14px;
+    border-radius:8px; font-size:13px; font-weight:600; cursor:pointer;
+  }
+  .geo-controls button:disabled { background:#c9c2b3; cursor:not-allowed; }
+  .geo-controls button.secondary { background: var(--navy); }
+  .geo-log { flex:1; overflow-y:auto; padding: 10px 14px; font-size:12.5px; line-height:1.6; }
+  .geo-log .ok { color:#0b6e4f; }
+  .geo-log .fail { color:#c73e1d; }
+  .geo-log .circ-head { color: var(--navy); font-weight:700; margin-top:10px; display:block; }
+  .progress-bar { height:6px; background:#eee; border-radius:4px; overflow:hidden; margin: 0 14px 12px; }
+  .progress-fill { height:100%; background: var(--orange); width:0%; transition: width .2s; }
+</style>
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-mark">🛠️</span>
+    <div class="brand-text">
+      <h1>Geocodificar circuitos</h1>
+      <p>Herramienta de preparación — corre una sola vez, exporta el JSON final</p>
+    </div>
+  </div>
+  <div class="topbar-actions">
+    <a href="index.html" style="color:#dbe4ee;font-size:12.5px;text-decoration:none;">← Volver al mapa</a>
+  </div>
+</header>
+
+<div class="geo-layout">
+  <aside class="geo-panel">
+    <div class="geo-controls">
+      <button id="btn-start">Iniciar geocodificación</button>
+      <button id="btn-download" class="secondary" disabled>Descargar circuitos.json</button>
+    </div>
+    <div class="progress-bar"><div class="progress-fill" id="progress"></div></div>
+    <div class="geo-log" id="log">
+      <p style="color:var(--ink-soft)">
+        Esto consulta <strong>Nominatim (OpenStreetMap)</strong> en tu navegador, una intersección
+        a la vez (con pausa de ~1.1s entre consultas, como pide su política de uso).
+        Con ~16 circuitos puede tardar 2–4 minutos. Al terminar, descarga el JSON resultante
+        y súbelo como <code>data/circuitos.json</code> — así el sitio público no vuelve a
+        golpear Nominatim en cada visita.
+      </p>
+    </div>
+  </aside>
+  <main class="map-wrap">
+    <div id="map"></div>
+  </main>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="geocode.js"></script>
+</body>
+</html>
